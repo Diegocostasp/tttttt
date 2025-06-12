@@ -1,16 +1,54 @@
 {
+  "categorias": {
+    "Ficção": ["Fantasia", "Sci-Fi"],
+    "Não Ficção": ["História", "Autoajuda"]
+    "Terror": ["História", "Autoajuda"]
+  },
   "books": [
     {
-      "id": "1",
-      "title": "1984",
-      "author": "George Orwell",
-      "url": "https://www.youtube.com/watch?v=POCs38Rputs",
+      "id": "livro1",
+      "title": "O Hobbit",
+      "author": "J.R.R. Tolkien",
+      "url": "https://www.youtube.com/watch?v=5RTc7-K1YJI",
+      "coverImage": "https://upload.wikimedia.org/wikipedia/pt/3/3e/The_Hobbit_cover.JPG",
       "category": "Ficção",
-      "subCategory": "Distopia",
-      "coverImage": "https://placehold.co/300x180?text=1984"
+      "subCategory": "Fantasia"
+    },
+    {
+      "id": "livro2",
+      "title": "Fundação",
+      "author": "Isaac Asimov",
+      "url": "https://www.youtube.com/watch?v=F32WfT2cK3Y",
+      "coverImage": "https://m.media-amazon.com/images/I/91oqvRx2e0L.jpg",
+      "category": "Ficção",
+      "subCategory": "Sci-Fi"
+    },
+    {
+      "id": "livro3",
+      "title": "Sapiens: Uma Breve História da Humanidade",
+      "author": "Yuval Noah Harari",
+      "url": "https://www.youtube.com/watch?v=Yv5L5zYlvvA",
+      "coverImage": "https://m.media-amazon.com/images/I/51Sn8PEXwcL.jpg",
+      "category": "Não Ficção",
+      "subCategory": "História"
+    },
+    {
+      "id": "livro4",
+      "title": "O Poder do Hábito",
+      "author": "Charles Duhigg",
+      "url": "https://www.youtube.com/watch?v=Q5wKVG9Iuqo",
+      "coverImage": "https://m.media-amazon.com/images/I/81vlA84pg6L.jpg",
+      "category": "Não Ficção",
+      "subCategory": "Autoajuda"
+    },
+    {
+      "id": "livro5",
+      "title": "Harry Potter e a Pedra Filosofal",
+      "author": "J.K. Rowling",
+      "url": "https://www.youtube.com/watch?v=u4Jdv-k-SvQ",
+      "coverImage": "https://upload.wikimedia.org/wikipedia/pt/6/6b/Harry_Potter_Pedra_Filosofal_2001.jpg",
+      "category": "Ficção",
+      "subCategory": "Fantasia"
     }
-  ],
-  "categorias": {
-    "Ficção": ["Distopia"]
-  }
+  ]
 }
