@@ -14,3 +14,19 @@
     "Ficção": ["Distopia"]
   }
 }
+{
+  "books": [
+    {
+      "id": "2",
+      "title": "2222",
+      "author": "George Orwell",
+      "url": "https://www.youtube.com/watch?v=POCs38Rputs",
+      "category": "Infantil",
+      "subCategory": "Aventura",
+      "coverImage": "https://placehold.co/300x180?text=1984"
+    }
+  ],
+  "categorias": {
+    "Infantil": ["Aventura"]
+  }
+}
