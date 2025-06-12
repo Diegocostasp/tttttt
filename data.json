@@ -1,0 +1,22 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "O Pequeno Príncipe",
+      "author": "Antoine de Saint-Exupéry",
+      "url": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
+      "category": "Infantil",
+      "subCategory": "Clássicos",
+      "coverImage": "https://link-para-imagem.com/capa1.jpg"
+    },
+    {
+      "id": "2",
+      "title": "1984",
+      "author": "George Orwell",
+      "url": "https://www.youtube.com/watch?v=YYYYYYYYYYY",
+      "category": "Ficção",
+      "subCategory": "Distopia",
+      "coverImage": "https://link-para-imagem.com/capa2.jpg"
+    }
+  ]
+}
