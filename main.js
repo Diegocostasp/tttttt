@@ -1,5 +1,3 @@
-
-// Dados dos livros e categorias
 const books = [
   {
     id: "1",
@@ -7,8 +5,8 @@ const books = [
     author: "Sun Tzu",
     url: "https://www.youtube.com/watch?v=hKoioiDpwrk",
     category: "Clássicos",
-    subCategory: "Estrangeiros",
-    coverImage: "https://placehold.co/300x180?text=A+Arte+da+Guerra"
+    subCategory: "Filosofia",
+    coverImage: "https://placehold.co/300x180?text=Arte+da+Guerra"
   },
   {
     id: "2",
@@ -18,14 +16,70 @@ const books = [
     category: "Ficção",
     subCategory: "Distopia",
     coverImage: "https://placehold.co/300x180?text=1984"
+  },
+  {
+    id: "3",
+    title: "Dom Casmurro",
+    author: "Machado de Assis",
+    url: "https://www.youtube.com/watch?v=DtBoAqkIJzI",
+    category: "Clássicos",
+    subCategory: "Literatura Brasileira",
+    coverImage: "https://placehold.co/300x180?text=Dom+Casmurro"
+  },
+  {
+    id: "4",
+    title: "O Pequeno Príncipe",
+    author: "Antoine de Saint-Exupéry",
+    url: "https://www.youtube.com/watch?v=nDbNRb9gOr4",
+    category: "Infantil",
+    subCategory: "Fábula",
+    coverImage: "https://placehold.co/300x180?text=Pequeno+Principe"
+  },
+  {
+    id: "5",
+    title: "Sapiens",
+    author: "Yuval Noah Harari",
+    url: "https://www.youtube.com/watch?v=E2b_bvTbDz8",
+    category: "Não Ficção",
+    subCategory: "História",
+    coverImage: "https://placehold.co/300x180?text=Sapiens"
+  },
+  {
+    id: "6",
+    title: "O Hobbit",
+    author: "J.R.R. Tolkien",
+    url: "https://www.youtube.com/watch?v=x8VYWazR5mE",
+    category: "Ficção",
+    subCategory: "Fantasia",
+    coverImage: "https://placehold.co/300x180?text=O+Hobbit"
+  },
+  {
+    id: "7",
+    title: "Mindset",
+    author: "Carol Dweck",
+    url: "https://www.youtube.com/watch?v=RvlQ0FUlOYo",
+    category: "Autoajuda",
+    subCategory: "Psicologia",
+    coverImage: "https://placehold.co/300x180?text=Mindset"
+  },
+  {
+    id: "8",
+    title: "O Segredo",
+    author: "Rhonda Byrne",
+    url: "https://www.youtube.com/watch?v=0Ngvc6AHC94",
+    category: "Autoajuda",
+    subCategory: "Motivacional",
+    coverImage: "https://placehold.co/300x180?text=O+Segredo"
   }
 ];
 
 const categorias = {
-  "Clássicos": ["Estrangeiros", "Literatura Brasileira"],
-  "Ficção": ["Distopia", "Fantasia"]
+  "Clássicos": ["Filosofia", "Literatura Brasileira"],
+  "Ficção": ["Distopia", "Fantasia"],
+  "Infantil": ["Fábula"],
+  "Não Ficção": ["História"],
+  "Autoajuda": ["Psicologia", "Motivacional"]
 };
-
 let player, index = 0, isPlaying = false, isMuted = false, shuffle = false;
 
 function getVideoId(url) {
@@ -49,7 +103,7 @@ function toggleFavorite(id) {
 function formatTime(s) {
   const m = Math.floor(s / 60);
   const sec = Math.floor(s % 60);
-  return \`\${m.toString().padStart(2, '0')}:\${sec.toString().padStart(2, '0')}\`;
+  return `${m.toString().padStart(2, '0')}:${sec.toString().padStart(2, '0')}`;
 }
 
 function loadTrack() {
@@ -67,8 +121,8 @@ function updateTime() {
     const cur = player.getCurrentTime();
     const dur = player.getDuration();
     document.getElementById("timeDisplay").textContent =
-      \`\${formatTime(cur)} / \${formatTime(dur)}\`;
-    document.getElementById("progress-bar").style.width = \`\${(cur / dur) * 100}%\`;
+      `${formatTime(cur)} / ${formatTime(dur)}`;
+    document.getElementById("progress-bar").style.width = `${(cur / dur) * 100}%`;
     localStorage.setItem("currentAudiobookTime", cur);
   }
 }
@@ -80,14 +134,14 @@ function renderBooks(list, containerId) {
     const favClass = isFavorite(book.id) ? "text-red-500" : "text-gray-400";
     const div = document.createElement("div");
     div.className = "p-4 bg-gray-700 rounded";
-    div.innerHTML = \`
-      <img src="\${book.coverImage}" class="w-full mb-2 rounded">
-      <h2 class="font-bold">\${book.title}</h2>
-      <p class="text-sm text-gray-300">\${book.author}</p>
+    div.innerHTML = `
+      <img src="${book.coverImage}" class="w-full mb-2 rounded">
+      <h2 class="font-bold">${book.title}</h2>
+      <p class="text-sm text-gray-300">${book.author}</p>
       <div class="flex justify-between items-center mt-2">
-        <button class="bg-teal-500 px-2 py-1 rounded play-btn" data-index="\${i}">▶️ Ouvir</button>
-        <button class="fav-btn \${favClass}" data-id="\${book.id}"><i class="fas fa-heart"></i></button>
-      </div>\`;
+        <button class="bg-teal-500 px-2 py-1 rounded play-btn" data-index="${i}">▶️ Ouvir</button>
+        <button class="fav-btn ${favClass}" data-id="${book.id}"><i class="fas fa-heart"></i></button>
+      </div>`;
     container.appendChild(div);
   });
 
@@ -111,11 +165,11 @@ function renderCategories() {
   catList.innerHTML = "";
   for (const cat in categorias) {
     const div = document.createElement("div");
-    div.innerHTML = \`<h3 class="font-bold text-lg">\${cat}</h3>\`;
+    div.innerHTML = `<h3 class="font-bold text-lg">${cat}</h3>`;
     const ul = document.createElement("ul");
     categorias[cat].forEach(sub => {
       const li = document.createElement("li");
-      li.innerHTML = \`<button class="text-teal-300 hover:underline" data-cat="\${cat}" data-sub="\${sub}">\${sub}</button>\`;
+      li.innerHTML = `<button class="text-teal-300 hover:underline" data-cat="${cat}" data-sub="${sub}">${sub}</button>`;
       li.querySelector("button").onclick = () => {
         const filtered = books.filter(b => b.category === cat && b.subCategory === sub);
         renderBooks(filtered, "audiobook-list");
@@ -151,11 +205,7 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 
   document.getElementById("playpause").onclick = () => {
-    if (isPlaying) {
-      player.pauseVideo();
-    } else {
-      player.playVideo();
-    }
+    isPlaying ? player.pauseVideo() : player.playVideo();
   };
   document.getElementById("next").onclick = () => {
     index = (index + 1) % books.length;
