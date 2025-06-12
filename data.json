@@ -2,29 +2,21 @@
   "books": [
     {
       "id": "1",
-      "title": "1984",
-      "author": "George Orwell",
-      "url": "https://www.youtube.com/watch?v=POCs38Rputs",
-      "category": "Ficção",
-      "subCategory": "Distopia",
-      "coverImage": "https://placehold.co/300x180?text=1984"
-    }
-  ],
-  "categorias": {
-    "Ficção": ["Distopia"]
-  }
-},
+      "title": "O Pequeno Príncipe",
+      "author": "Antoine de Saint-Exupéry",
+      "url": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
+      "category": "Infantil",
+      "subCategory": "Clássicos",
+      "coverImage": "https://link-para-imagem.com/capa1.jpg"
+    },
     {
       "id": "2",
-      "title": "2222",
+      "title": "1984",
       "author": "George Orwell",
-      "url": "https://www.youtube.com/watch?v=POCs38Rputs",
-      "category": "Infantil",
-      "subCategory": "Aventura",
-      "coverImage": "https://placehold.co/300x180?text=1984"
+      "url": "https://www.youtube.com/watch?v=YYYYYYYYYYY",
+      "category": "Ficção",
+      "subCategory": "Distopia",
+      "coverImage": "https://link-para-imagem.com/capa2.jpg"
     }
-  ],
-  "categorias": {
-    "Infantil": ["Aventura"]
-  }
+  ]
 }
