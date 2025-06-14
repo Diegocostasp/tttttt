@@ -163,7 +163,7 @@
       "synopsis": "Harry Potter descobre que é um bruxo e é convidado a estudar na Escola de Magia e Bruxaria de Hogwarts, onde desvenda o mistério por trás da Pedra Filosofal.",
       "averageRating": 4.8,
       "totalVotes": 250,
-      "addedDate": 1718300000000000010
+      "addedDate": 17183000000000000010
     },
     {
       "id": "12",
@@ -178,7 +178,7 @@
       "synopsis": "Harry Potter descobre que é um bruxo e é convidado a estudar na Escola de Magia e Bruxaria de Hogwarts, onde desvenda o mistério por trás da Pedra Filosofal.",
       "averageRating": 4.8,
       "totalVotes": 250,
-      "addedDate": 1718300000000000011
+      "addedDate": 17183000000000000011
     },
     {
       "id": "13",
@@ -193,7 +193,7 @@
       "synopsis": "Harry Potter descobre que é um bruxo e é convidado a estudar na Escola de Magia e Bruxaria de Hogwarts, onde desvenda o mistério por trás da Pedra Filosofal.",
       "averageRating": 4.8,
       "totalVotes": 250,
-      "addedDate": 1718300000000000012
+      "addedDate": 17183000000000000012
        },
     {
       "id": "14",
@@ -208,15 +208,8 @@
       "synopsis": "Harry Potter descobre que é um bruxo e é convidado a estudar na Escola de Magia e Bruxaria de Hogwarts, onde desvenda o mistério por trás da Pedra Filosofal.",
       "averageRating": 4.8,
       "totalVotes": 250,
-      "addedDate": 1718300000000000013
+      "addedDate": 17183000000000000013
     }
   ],
-  "categorias": {
-    "Fantasia": ["Harry Potter", "Fantasia Épica", "Aventura"],
-    "Filosofia": ["Filosofia Oriental", "Filosofia Ocidental"],
-    "Infantil": ["Clássicos Infantis", "Contos de Fadas"],
-    "Não Ficção": ["História", "Autoajuda"],
-    "Clássicos": ["Distopia", "Literatura Brasileira"],
-    "Aventura": ["Distopia", "Magia"]
-  }
+  "categorias": {}
 }
