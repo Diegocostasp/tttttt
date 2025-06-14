@@ -24,9 +24,22 @@
       "subCategory": "Harry Potter",
       "synopsis": "Um antigo tratado militar chinês atribuído a Sun Tzu, um estrategista militar, que influenciou táticas militares, negócios e muito mais ao longo da história."
     }
+    {
+      "id": "3",
+      "title": "Harry Potter e o Prisioneiro de Azkaban",
+      "author": "J. K. Rowling",
+      "channel": "Beatriz Bergamin",
+      "narrator": "Carlos Campanile",
+      "url": "https://www.youtube.com/watch?v=mDThha5M8eU",
+      "coverImage": "https://m.media-amazon.com/images/I/81u+ljPVifL.jpg",
+      "category": "Fantasia",
+      "subCategory": "Harry Potter"
+      "synopsis": "Um antigo tratado militar chinês atribuído a Sun Tzu, um estrategista militar, que influenciou táticas militares, negócios e muito mais ao longo da história."
+
+    }
   ],
   "categorias": {
-    "Fantasia": ["Épica", "Urbana"],
-    "Filosofia": ["Estratégia", "Existencialismo"]
+    "Fantasia": ["Harry Potter"],
+    "Filosofia": ["Infantil"]
   }
 }
