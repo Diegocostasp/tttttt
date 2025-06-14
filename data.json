@@ -21,6 +21,17 @@
       "coverImage": "https://m.media-amazon.com/images/I/81jbivNEVML.jpg",
       "category": "Fantasia",
       "subCategory": "Harry Potter"
+    },
+    {
+      "id": "1",
+      "title": "Harry Potter e o Prisioneiro de Azkaban",
+      "author": "J. K. Rowling",
+      "channel": "Beatriz Bergamin",
+      "narrator": "Carlos Campanile",
+      "url": "https://www.youtube.com/watch?v=mDThha5M8eU",
+      "coverImage": "https://m.media-amazon.com/images/I/81u+ljPVifL.jpg",
+      "category": "Fantasia",
+      "subCategory": "Harry Potter"
     }
   ],
   "categorias": {
