@@ -45,6 +45,7 @@
   ],
   "categorias": {
     "Fantasia": ["Harry Potter"],
-    "Filosofia": ["Infantil"]
+    "Filosofia": ["Infantil", "teste"]
+    "Terror": ["Sobrenatural"]
   }
 }
