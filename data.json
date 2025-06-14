@@ -173,8 +173,8 @@
       "narrator": "Danilo Oliveira",
       "url": "https://www.youtube.com/watch?v=asJ-R3EBzvA",
       "coverImage": "https://m.media-amazon.com/images/I/A1UjcPz4gZL._UF1000,1000_QL80_.jpg",
-      "category": ["Fantasia", "Aventura"],
-      "subCategory": ["Harry Potter", "Magia"],
+      "category": ["Infantil", "Aventura"],
+      "subCategory": ["Contos de Fadas", "Magia"],
       "synopsis": "Harry Potter descobre que é um bruxo e é convidado a estudar na Escola de Magia e Bruxaria de Hogwarts, onde desvenda o mistério por trás da Pedra Filosofal.",
       "averageRating": 4.8,
       "totalVotes": 250,
@@ -212,11 +212,11 @@
     }
   ],
   "categorias": {
-    "Fantasia": ["Harry Potter", "Fantasia Épica", "Magia", "Aventura"],
+    "Fantasia": ["Harry Potter", "Fantasia Épica", "Aventura"],
     "Filosofia": ["Filosofia Oriental", "Filosofia Ocidental"],
     "Infantil": ["Clássicos Infantis", "Contos de Fadas"],
     "Não Ficção": ["História", "Autoajuda"],
     "Clássicos": ["Distopia", "Literatura Brasileira"],
-    "Aventura": ["Distopia", "Literatura Brasileira"]
+    "Aventura": ["Distopia", "Magia"]
   }
 }
