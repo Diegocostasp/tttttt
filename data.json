@@ -246,7 +246,7 @@
       "author": "Herman Melville",
       "channel": "Biboca Diagonal",
       "narrator": "Desconhecido",
-      "url": "https://www.youtube.com/watch?v=3yxenltSIIk",
+      "url": "https://www.youtube.com/watch?v=00hy2Af0jzQ",
       "coverImage": "https://m.media-amazon.com/images/I/91TJrQMCT9L._UF894,1000_QL80_.jpg",
       "category": ["Romance", "Aventura"],
       "subCategory": ["Clássicos de Ficção", "Romance de aventura"],
@@ -255,6 +255,22 @@
       "totalVotes": 40,
       "addedDate": "2024-06-15T09:45:00Z",
       "views": 45
+       },
+     {
+      "id": "17",
+      "title": "Diário de Anne Frank",
+      "author": "Anne Frank",
+      "channel": "Biboca Diagonal",
+      "narrator": "Mila Tiso",
+      "url": "https://www.youtube.com/watch?v=R94vUqOJdcU",
+      "coverImage": "https://m.media-amazon.com/images/I/51G7Sg0NgRL._SY445_SX342_.jpg",
+      "category": ["Biografia", "Guerra"],
+      "subCategory": [" Autobiografia", "Narrativa pessoal"],
+      "synopsis": "O Diário de Anne Frank é um livro escrito por Anne Frank entre 12 de junho de 1942 e 1.º de agosto de 1944 durante a Segunda Guerra Mundial. É conhecido por narrar momentos vivenciados pelo grupo de judeus confinados em um esconderijo durante a ocupação nazista dos Países Baixos.",
+      "averageRating": 5,
+      "totalVotes": 40,
+      "addedDate": "2024-06-15T01:30:00Z",
+      "views": 493
        }
   ],
   "categorias": {}
