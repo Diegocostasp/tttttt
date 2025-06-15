@@ -223,7 +223,39 @@
       "totalVotes": 250,
       "addedDate": "2024-06-14T09:45:00Z",
       "views": 46000
-    }
+    },
+    {
+      "id": "15",
+      "title": "Animais Fantásticos e onde habitam",
+      "author": "J. K. Rowling",
+      "channel": "Biboca Diagonal",
+      "narrator": "Desconhecido",
+      "url": "https://www.youtube.com/watch?v=3yxenltSIIk",
+      "coverImage": "https://m.media-amazon.com/images/I/61tk0xw+V2L._SY445_SX342_.jpg",
+      "category": ["Fantasia", "Aventura"],
+      "subCategory": ["Harry Potter", "Magia"],
+      "synopsis": "Harry Potter descobre que é um bruxo e é convidado a estudar na Escola de Magia e Bruxaria de Hogwarts, onde desvenda o mistério por trás da Pedra Filosofal.",
+      "averageRating": 4.5,
+      "totalVotes": 114,
+      "addedDate": "2024-06-15T09:45:00Z",
+      "views": 2099
+       },
+    {
+      "id": "16",
+      "title": "Moby Dick 1961",
+      "author": "Herman Melville",
+      "channel": "Biboca Diagonal",
+      "narrator": "Desconhecido",
+      "url": "https://www.youtube.com/watch?v=3yxenltSIIk",
+      "coverImage": "https://m.media-amazon.com/images/I/91TJrQMCT9L._UF894,1000_QL80_.jpg",
+      "category": ["Romance", "Aventura"],
+      "subCategory": ["Clássicos de Ficção", "Romance de aventura"],
+      "synopsis": "O clássico de Herman Melville é narrado por Ishmael, tripulante do baleeiro comandado pelo capitão Ahab, que, em sua última viagem, deseja capturar a grande baleia branca que no passado arrancou uma de suas pernas.",
+      "averageRating": 5,
+      "totalVotes": 40,
+      "addedDate": "2024-06-15T09:45:00Z",
+      "views": 45
+       }
   ],
   "categorias": {}
 }
