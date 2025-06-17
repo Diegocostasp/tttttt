@@ -306,20 +306,37 @@
        },
     {
       "id": "20",
-      "title": "O Quadribol através dos Séculos",
-      "author": "J. K. Rowling",
-      "channel": "Biboca Diagonal",
-      "narrator": "DrnAudiolivros",
-      "url": "https://www.youtube.com/watch?v=yj97_FWXvM4",
-      "coverImage": "https://m.media-amazon.com/images/I/91HCv8CuZTL.jpg",
+      "title": "O Hobbit",
+      "author": "J.R.R. Tolkien",
+      "channel": "AUDIOBOOK COLLECTIONS",
+      "narrator": "Mauro Ramos",
+      "url": "https://www.youtube.com/watch?v=Y9zyTUkVqds",
+      "coverImage": "https://m.media-amazon.com/images/I/91M9xPIf10L.jpg",
       "category": ["Fantasia", "Aventura"],
-      "subCategory": ["Harry Potter", "Magia"],
-      "synopsis": "Quadribol Através dos Séculos, escrito por Kennilworthy Whisp (pseudônimo de J.K. Rowling), é um livro que explora a história e a evolução do quadribol, o famoso esporte bruxo do mundo de Harry Potter. Ele detalha a origem do jogo, a evolução das vassouras, as regras, as diferentes posições dos jogadores e até mesmo alguns times famosos.",
-      "averageRating": 4.4,
-      "totalVotes": 11,
+      "subCategory": ["Senhor dos aneis", "Magia"],
+      "synopsis": "O Hobbit, de J.R.R. Tolkien, narra a história de Bilbo Bolseiro, um hobbit tranquilo que é arrastado para uma grande aventura. Ele se junta ao mago Gandalf e uma companhia de anões liderados por Thorin Escudo de Carvalho, numa missão para recuperar um tesouro guardado pelo dragão Smaug na Montanha Solitária.",
+      "averageRating": 4.9,
+      "totalVotes": 89,
       "addedDate": "2024-06-16T21:22:00Z",
-      "views": 224
+      "views": 6883
+       },
+    {
+      "id": "21",
+      "title": "O Silmarillion",
+      "author": "J.R.R. Tolkien",
+      "channel": "AUDIOBOOK COLLECTIONS",
+      "narrator": "Desconhecido",
+      "url": "https://www.youtube.com/watch?v=4fsA0mJ_cYA",
+      "coverImage": "https://m.media-amazon.com/images/I/51EZZWkTECL._SY445_SX342_.jpg",
+      "category": ["Fantasia", "Aventura"],
+      "subCategory": ["Senhor dos aneis", "Magia"],
+      "synopsis": "O Silmarillion, é um livro de J.R.R. Tolkien que narra a história da Primeira Era da Terra-média, um período anterior aos eventos de "O Hobbit" e "O Senhor dos Anéis". A obra descreve a criação do mundo, a ascensão e queda de reinos élficos, a criação das Silmarils por Fëanor e a luta contra Morgoth, o primeiro Senhor das Trevas, para recuperá-las.",
+      "averageRating": 4.7,
+      "totalVotes": 45,
+      "addedDate": "2024-06-16T21:39:00Z",
+      "views": 1694
        }
+    
   ],
   "categorias": {}
 }
