@@ -2,286 +2,151 @@
   "books": [
     {
       "id": "1",
-      "title": "Harry Potter e a Pedra Filosofal",
-      "author": "J. K. Rowling",
-      "channel": "Biboca Diagonal",
-      "narrator": "Jorge Rebello",
-      "url": "https://www.youtube.com/watch?v=_J1Pu-ETeJk",
-      "coverImage": "https://s2.glbimg.com/5XDBjIo9s_D0T94yoG849f3fA-M=/e.glbimg.com/og/ed/f/original/2020/11/24/capa-abook-1-600x600_1.jpg",
-      "category": ["Fantasia", "Aventura"],
-      "subCategory": ["Harry Potter", "Magia"],
-      "synopsis": "Harry Potter e a Pedra Filosofal, conta a história de Harry, um órfão que vive com seus tios abusivos. No dia do seu 11º aniversário, ele descobre que é um bruxo e é convidado a estudar na Escola de Magia e Bruxaria de Hogwarts. Lá, ele faz novos amigos, aprende sobre o mundo bruxo e descobre sobre a ameaça de Lord Voldemort, que assassinou seus pais e tenta obter a Pedra Filosofal, um artefato mágico que concede imortalidade.",
-      "averageRating": 5,
-      "totalVotes": 55,
-      "addedDate": "2024-06-13T09:45:00Z",
-      "views": 74000
+      "title": "1408",
+      "author": "Stephen King",
+      "channel": "Domínio Público",
+      "narrator": "Jaime Maciel",
+      "url": "https://www.youtube.com/watch?v=RXRHzjq1UGY&t=54s",
+      "coverImage": "https://livralivro.com.br/uploads/book/img/003/8827492003.jpg",
+      "category": [
+        "Terror"
+      ],
+      "subCategory": [
+        "Suspense",
+        "Mistério",
+        "Horror"
+      ],
+      "synopsis": "O conto 1408, de Stephen King, presente na coletânea Tudo é Eventual, narra a história de Mike Enslin, um escritor cético especializado em casos paranormais, que decide passar uma noite no quarto 1408 do hotel Dolphin, em Nova Iorque, apesar dos avisos do gerente, Gerald Olin, sobre as mortes e eventos sinistros que ocorreram ali.",
+      "averageRating": 4.4,
+      "totalVotes": 28,
+      "addedDate": "2025-06-17",
+      "views": 13974
     },
     {
       "id": "2",
-      "title": "Harry Potter e a Câmara Secreta",
-      "author": "J. K. Rowling",
-      "channel": "Biboca Diagonal",
-      "narrator": "Jorge Rebello",
-      "url": "https://www.youtube.com/watch?v=giIEAbcPB68",
-      "coverImage": "https://m.media-amazon.com/images/I/81jbivNEVML.jpg",
-      "category": ["Fantasia", "Aventura"],
-      "subCategory": ["Harry Potter", "Magia"],
-      "synopsis": "Em Harry Potter e a Câmara Secreta, Harry volta para Hogwarts para o segundo ano, mas encontra a escola assombrada por uma lenda antiga: a abertura da Câmara Secreta, que libera um monstro que petrifica os alunos, especialmente os nascidos-trouxas.",
+      "title": "O Silmarillion",
+      "author": "J.R.R. Tolkien",
+      "channel": "AUDIOBOOK COLLECTIONS",
+      "narrator": "Desconhecido",
+      "url": "https://www.youtube.com/watch?v=4fsA0mJ_cYA",
+      "coverImage": "https://m.media-amazon.com/images/I/51EZZWkTECL._SY445_SX342_.jpg",
+      "category": [
+        "Fantasia",
+        "Aventura"
+      ],
+      "subCategory": [
+        "Senhor dos aneis",
+        "Magia"
+      ],
+      "synopsis": "O Silmarillion, é um livro de J.R.R. Tolkien que narra a história da Primeira Era da Terra-média, um período anterior aos eventos de O Hobbit e O Senhor dos Anéis. A obra descreve a criação do mundo, a ascensão e queda de reinos élficos, a criação das Silmarils por Fëanor e a luta contra Morgoth, o primeiro Senhor das Trevas, para recuperá-las.",
       "averageRating": 4.7,
-      "totalVotes": 41,
-      "addedDate": "2024-06-13T09:45:00Z",
-      "views": 36000
+      "totalVotes": 45,
+      "addedDate": "2024-06-16T21:39:00Z",
+      "views": 1694
     },
     {
       "id": "3",
-      "title": "Harry Potter e o Prisioneiro de Azkaban",
-      "author": "J. K. Rowling",
-      "channel": "Beatriz Bergamin",
-      "narrator": "Carlos Campanile",
-      "url": "https://www.youtube.com/watch?v=mDThha5M8eU",
-      "coverImage": "https://m.media-amazon.com/images/I/81u+ljPVifL.jpg",
-      "category": ["Fantasia", "Aventura"],
-      "subCategory": ["Harry Potter", "Magia"],
-      "synopsis": "Em Harry Potter e o Prisioneiro de Azkaban, Harry, Ron e Hermione estão no terceiro ano em Hogwarts, quando o prisioneiro Sirius Black foge da prisão de Azkaban. Black, acusado de ser um aliado de Voldemort, é considerado perigoso e está determinado a encontrar Harry",
-      "averageRating": 4.8,
-      "totalVotes": 250,
-      "addedDate": "2024-06-13T09:45:00Z",
-      "views": 410000
+      "title": "O Hobbit",
+      "author": "J.R.R. Tolkien",
+      "channel": "AUDIOBOOK COLLECTIONS",
+      "narrator": "Mauro Ramos",
+      "url": "https://www.youtube.com/watch?v=Y9zyTUkVqds",
+      "coverImage": "https://m.media-amazon.com/images/I/91M9xPIf10L.jpg",
+      "category": [
+        "Fantasia",
+        "Aventura"
+      ],
+      "subCategory": [
+        "Senhor dos aneis",
+        "Magia"
+      ],
+      "synopsis": "O Hobbit, de J.R.R. Tolkien, narra a história de Bilbo Bolseiro, um hobbit tranquilo que é arrastado para uma grande aventura. Ele se junta ao mago Gandalf e uma companhia de anões liderados por Thorin Escudo de Carvalho, numa missão para recuperar um tesouro guardado pelo dragão Smaug na Montanha Solitária.",
+      "averageRating": 4.9,
+      "totalVotes": 89,
+      "addedDate": "2024-06-16T21:22:00Z",
+      "views": 6883
     },
     {
       "id": "4",
-      "title": "Harry Potter e o Cálice de Fogo (Parte 1)",
-      "author": "J. K. Rowling",
-      "channel": "Beatriz Bergamin",
-      "narrator": "Carlos Campanile",
-      "url": "https://www.youtube.com/watch?v=Z6zGNv6e6Jc",
-      "coverImage": "https://m.media-amazon.com/images/I/81nTLN-kz7L.jpg",
-      "category": ["Fantasia", "Aventura"],
-      "subCategory": ["Harry Potter", "Magia"],
-      "synopsis": "Harry Potter descobre que é um bruxo e é convidado a estudar na Escola de Magia e Bruxaria de Hogwarts, onde desvenda o mistério por trás da Pedra Filosofal.",
-      "averageRating": 4.8,
-      "totalVotes": 57,
-      "addedDate": "2024-06-14T09:45:00Z",
-      "views": 232000
-    },
-    {
-       "id": "5",
-      "title": "Harry Potter e o Cálice de Fogo (Parte 2)",
-      "author": "J. K. Rowling",
-      "channel": "Beatriz Bergamin",
-      "narrator": "Carlos Campanile",
-      "url": "https://www.youtube.com/watch?v=ukmlcL3NTPQ",
-      "coverImage": "https://m.media-amazon.com/images/I/81nTLN-kz7L.jpg",
-      "category": ["Fantasia", "Aventura"],
-      "subCategory": ["Harry Potter", "Magia"],
-      "synopsis": "Harry Potter descobre que é um bruxo e é convidado a estudar na Escola de Magia e Bruxaria de Hogwarts, onde desvenda o mistério por trás da Pedra Filosofal.",
-      "averageRating": 4.8,
-      "totalVotes": 57,
-      "addedDate": "2024-06-14T09:45:00Z",
-      "views": 106000
-    },
-    {
-       "id": "6",
-      "title": "Harry Potter e o Cálice de Fogo (Parte 3)",
-      "author": "J. K. Rowling",
-      "channel": "Beatriz Bergamin",
-      "narrator": "Carlos Campanile",
-      "url": "https://www.youtube.com/watch?v=TYDsvOEC-1w",
-      "coverImage": "https://m.media-amazon.com/images/I/81nTLN-kz7L.jpg",
-     "category": ["Fantasia", "Aventura"],
-      "subCategory": ["Harry Potter", "Magia"],
-      "synopsis": "Harry Potter descobre que é um bruxo e é convidado a estudar na Escola de Magia e Bruxaria de Hogwarts, onde desvenda o mistério por trás da Pedra Filosofal.",
-      "averageRating": 4.8,
-      "totalVotes": 57,
-      "addedDate": "2024-06-14T09:45:00Z",
-      "views": 59000
-    },
-    {
-      "id": "7",
-      "title": "Harry Potter e a Ordem da Fênix (Parte 1)",
-      "author": "J. K. Rowling",
-      "channel": "Beatriz Bergamin",
-      "narrator": "Carlos Campanile",
-      "url": "https://www.youtube.com/watch?v=qmM0iCjv2Ns",
-      "coverImage": "https://m.media-amazon.com/images/I/81d6ESyPZwL.jpg",
-      "category": ["Fantasia", "Aventura"],
-      "subCategory": ["Harry Potter", "Magia"],
-      "synopsis": "Em Harry Potter e a Ordem da Fênix, Harry retorna para seu quinto ano em Hogwarts enfrentando o ceticismo do Ministério da Magia, que se recusa a acreditar no retorno de Voldemort. Ele funda a Armada de Dumbledore com Rony e Hermione para aprender Defesa Contra as Artes das Trevas, já que a nova professora, Dolores Umbridge, impõe regras rígidas e proíbe a prática da magia.",
-      "averageRating": 4.6,
-      "totalVotes": 22,
-      "addedDate": "2024-06-14T09:45:00Z",
-      "views": 168000
-    },
-    {
-      "id": "8",
-      "title": "Harry Potter e a Ordem da Fênix (Parte 2)",
-      "author": "J. K. Rowling",
-      "channel": "Beatriz Bergamin",
-      "narrator": "Carlos Campanile",
-      "url": "https://www.youtube.com/watch?v=HsB_Oeh9mc0",
-      "coverImage": "https://m.media-amazon.com/images/I/81d6ESyPZwL.jpg",
-      "category": ["Fantasia", "Aventura"],
-      "subCategory": ["Harry Potter", "Magia"],
-      "synopsis": "Em Harry Potter e a Ordem da Fênix, Harry retorna para seu quinto ano em Hogwarts enfrentando o ceticismo do Ministério da Magia, que se recusa a acreditar no retorno de Voldemort. Ele funda a Armada de Dumbledore com Rony e Hermione para aprender Defesa Contra as Artes das Trevas, já que a nova professora, Dolores Umbridge, impõe regras rígidas e proíbe a prática da magia.",
-      "averageRating": 4.6,
-      "totalVotes": 22,
-      "addedDate": "2024-06-14T09:45:00Z",
-      "views": 125000
-    },
-    {
-      "id": "9",
-      "title": "Harry Potter e a Ordem da Fênix (Parte 3)",
-      "author": "J. K. Rowling",
-      "channel": "Beatriz Bergamin",
-      "narrator": "Carlos Campanile",
-      "url": "https://www.youtube.com/watch?v=PUPkSXpg5s4",
-      "coverImage": "https://m.media-amazon.com/images/I/81d6ESyPZwL.jpg",
-      "category": ["Fantasia", "Aventura"],
-      "subCategory": ["Harry Potter", "Magia"],
-     "synopsis": "Em Harry Potter e a Ordem da Fênix, Harry retorna para seu quinto ano em Hogwarts enfrentando o ceticismo do Ministério da Magia, que se recusa a acreditar no retorno de Voldemort. Ele funda a Armada de Dumbledore com Rony e Hermione para aprender Defesa Contra as Artes das Trevas, já que a nova professora, Dolores Umbridge, impõe regras rígidas e proíbe a prática da magia.",
-      "averageRating": 4.6,
-      "totalVotes": 22,
-      "addedDate": "2024-06-14T09:45:00Z",
-      "views": 109000
-    },
-    {
-      "id": "10",
-      "title": "Harry Potter e o Enigma do Príncipe (Parte 1)",
-      "author": "J. K. Rowling",
-      "channel": "Beatriz Bergamin",
-      "narrator": "Carlos Campanile",
-      "url": "https://www.youtube.com/watch?v=o_VgwrZ76Qg",
-      "coverImage": "https://m.media-amazon.com/images/I/81yFIh1yoZL.jpg",
-      "category": ["Fantasia", "Aventura"],
-      "subCategory": ["Harry Potter", "Magia"],
-      "synopsis": "Harry Potter e o Enigma do Príncipe é o sexto livro da série, onde Harry está no seu sexto ano em Hogwarts e enfrenta um período de crescente tensão e medo com a volta de Voldemort e seus Comensais da Morte. O livro explora a infância de Voldemort através de memórias compartilhadas com Dumbledore, revelando detalhes cruciais sobre sua vulnerabilidade.",
-      "averageRating": 4.7,
-      "totalVotes": 33,
-      "addedDate": "2024-06-14T09:45:00Z",
-      "views": 117000
-    },
-    {
-      "id": "11",
-      "title": "Harry Potter e o Enigma do Príncipe (Parte 2)",
-      "author": "J. K. Rowling",
-      "channel": "Beatriz Bergamin",
-      "narrator": "Carlos Campanile",
-      "url": "https://www.youtube.com/watch?v=fH-JNP3u65Q",
-      "coverImage": "https://m.media-amazon.com/images/I/81yFIh1yoZL.jpg",
-      "category": ["Fantasia", "Aventura"],
-      "subCategory": ["Harry Potter", "Magia"],
-      "synopsis": "Harry Potter e o Enigma do Príncipe é o sexto livro da série, onde Harry está no seu sexto ano em Hogwarts e enfrenta um período de crescente tensão e medo com a volta de Voldemort e seus Comensais da Morte. O livro explora a infância de Voldemort através de memórias compartilhadas com Dumbledore, revelando detalhes cruciais sobre sua vulnerabilidade.",
-      "averageRating": 4.7,
-      "totalVotes": 33,
-      "addedDate": "2024-06-14T09:45:00Z",
-      "views": 76000
-    },
-    {
-      "id": "12",
-      "title": "Percy Jackson e o Ladrão de Raios",
-      "author": "Rick Riordan",
-      "channel": "Beatriz Bergamin",
-      "narrator": "Danilo Oliveira",
-      "url": "https://www.youtube.com/watch?v=asJ-R3EBzvA",
-      "coverImage": "https://m.media-amazon.com/images/I/A1UjcPz4gZL._UF1000,1000_QL80_.jpg",
-      "category": ["Infantil", "Aventura"],
-      "subCategory": ["Contos de Fadas", "Magia"],
-      "synopsis": "Em Percy Jackson e o Ladrão de Raios, Percy descobre ser um semideus, filho de Poseidon, e é acusado de roubar o raio-mestre de Zeus. Com a ajuda de novos amigos, um sátiro e a filha de Atena, ele embarca numa jornada pelos Estados Unidos para encontrar o verdadeiro ladrão e evitar uma guerra entre os deuses.",
-      "averageRating": 4.9,
-      "totalVotes": 71,
-      "addedDate": "2024-06-14T09:45:00Z",
-      "views": 216000
-    },
-    {
-      "id": "13",
-      "title": "Harry Potter e as Relíquias da Morte Parte 1",
+      "title": "Os Contos de Beedle O Bardo",
       "author": "J. K. Rowling",
       "channel": "Biboca Diagonal",
-      "narrator": "Carlos Campanile",
-      "url": "https://www.youtube.com/watch?v=vv1iC3dvrYQ",
-      "coverImage": "https://m.media-amazon.com/images/I/81rvO7xcJOL.jpg",
-      "category": ["Fantasia", "Aventura"],
-      "subCategory": ["Harry Potter", "Magia"],
-      "synopsis": "Harry Potter e as Relíquias da Morte é o sétimo e último livro da série, onde Harry, Rony e Hermione embarcam em uma perigosa jornada para encontrar e destruir as Horcruxes restantes de Voldemort, artefatos que contêm fragmentos de sua alma.",
-      "averageRating": 4.3,
-      "totalVotes": 40,
-      "addedDate": "2024-06-14T09:45:00Z",
-      "views": 44000
-       },
-    {
-      "id": "14",
-      "title": "Harry Potter e as Relíquias da Morte Parte 2",
-      "author": "J. K. Rowling",
-      "channel": "Biboca Diagonal",
-      "narrator": "Carlos Campanile",
-      "url": "https://www.youtube.com/watch?v=7UKEphfvV1A",
-      "coverImage": "https://m.media-amazon.com/images/I/81rvO7xcJOL.jpg",
-      "category": ["Fantasia", "Aventura"],
-      "subCategory": ["Harry Potter", "Magia"],
-      "synopsis": "Harry Potter e as Relíquias da Morte é o sétimo e último livro da série, onde Harry, Rony e Hermione embarcam em uma perigosa jornada para encontrar e destruir as Horcruxes restantes de Voldemort, artefatos que contêm fragmentos de sua alma.",
-      "averageRating": 4.3,
-      "totalVotes": 40,
-      "addedDate": "2024-06-14T09:45:00Z",
-      "views": 46000
+      "narrator": "Desconhecido",
+      "url": "https://www.youtube.com/watch?v=KHCiIOpHeDU",
+      "coverImage": "https://m.media-amazon.com/images/I/91HCv8CuZTL.jpg",
+      "category": [
+        "Fantasia",
+        "Aventura"
+      ],
+      "subCategory": [
+        "Harry Potter",
+        "Magia"
+      ],
+      "synopsis": "Os Contos de Beedle, o Bardo, é uma coleção de cinco contos de fadas do mundo bruxo, escritos por J.K. Rowling, que aparecem no último livro da série Harry Potter, Harry Potter e as Relíquias da Morte, como um presente de Dumbledore para Hermione. Os contos são narrativas com temas de magia, moralidade e lições de vida, e cada um deles é seguido por comentários de Dumbledore, oferecendo perspectivas adicionais e reflexões sobre o significado de cada história.",
+      "averageRating": 4.6,
+      "totalVotes": 18,
+      "addedDate": "2024-06-16T21:14:00Z",
+      "views": 663
     },
     {
-      "id": "15",
+      "id": "5",
       "title": "Animais Fantásticos e onde habitam",
       "author": "J. K. Rowling",
       "channel": "Biboca Diagonal",
       "narrator": "Desconhecido",
       "url": "https://www.youtube.com/watch?v=3yxenltSIIk",
       "coverImage": "https://m.media-amazon.com/images/I/61tk0xw+V2L._SY445_SX342_.jpg",
-      "category": ["Fantasia", "Aventura"],
-      "subCategory": ["Harry Potter", "Magia"],
+      "category": [
+        "Fantasia",
+        "Aventura"
+      ],
+      "subCategory": [
+        "Harry Potter",
+        "Magia"
+      ],
       "synopsis": "Animais Fantásticos e Onde Habitam é um livro escrito por J.K. Rowling como um guia de criaturas mágicas, usado como livro didático na escola de magia e bruxaria de Hogwarts. O livro descreve mais de 80 espécies de animais fantásticos, seus hábitos, origens e classificação de perigo.",
       "averageRating": 4.7,
       "totalVotes": 114,
       "addedDate": "2024-06-15T09:45:00Z",
       "views": 2099
-       },
+    },
     {
-      "id": "16",
+      "id": "6",
       "title": "Moby Dick 1961",
       "author": "Herman Melville",
       "channel": "Biboca Diagonal",
       "narrator": "Desconhecido",
       "url": "https://www.youtube.com/watch?v=00hy2Af0jzQ",
       "coverImage": "https://m.media-amazon.com/images/I/91TJrQMCT9L._UF894,1000_QL80_.jpg",
-      "category": ["Romance", "Aventura"],
-      "subCategory": ["Clássicos de Ficção", "Romance de aventura"],
+      "category": [
+        "Romance",
+        "Aventura"
+      ],
+      "subCategory": [
+        "Clássicos de Ficção",
+        "Romance de aventura"
+      ],
       "synopsis": "O clássico de Herman Melville é narrado por Ishmael, tripulante do baleeiro comandado pelo capitão Ahab, que, em sua última viagem, deseja capturar a grande baleia branca que no passado arrancou uma de suas pernas.",
       "averageRating": 5,
       "totalVotes": 40,
       "addedDate": "2024-06-15T09:45:00Z",
       "views": 45
-       },
-     {
-      "id": "17",
-      "title": "Diário de Anne Frank",
-      "author": "Anne Frank",
-      "channel": "Biboca Diagonal",
-      "narrator": "Mila Tiso",
-      "url": "https://www.youtube.com/watch?v=R94vUqOJdcU",
-      "coverImage": "https://m.media-amazon.com/images/I/51G7Sg0NgRL._SY445_SX342_.jpg",
-      "category": ["Biografia", "Guerra"],
-      "subCategory": [" Autobiografia", "Narrativa pessoal"],
-      "synopsis": "O Diário de Anne Frank é um livro escrito por Anne Frank entre 12 de junho de 1942 e 1.º de agosto de 1944 durante a Segunda Guerra Mundial. É conhecido por narrar momentos vivenciados pelo grupo de judeus confinados em um esconderijo durante a ocupação nazista dos Países Baixos.",
-      "averageRating": 5,
-      "totalVotes": 40,
-      "addedDate": "2024-06-15T01:30:00Z",
-      "views": 493
-       },
-{
-      "id": "18",
+    },
+    {
+      "id": "7",
       "title": "O menino do pijama listrado",
       "author": "John Boyne",
       "channel": "Biboca Diagonal",
       "narrator": "Augusto Pacheco Calil",
       "url": "https://www.youtube.com/watch?v=7ISs7rp8yWY",
       "coverImage": "https://m.media-amazon.com/images/I/91YD+gCjjyL._SL1500_.jpg",
-      "category": ["Guerra"],
-      "subCategory": ["Obra de Época", "Ficção histórica"],
+      "category": [
+        "Guerra"
+      ],
+      "subCategory": [
+        "Obra de Época",
+        "Ficção histórica"
+      ],
       "synopsis": "O Menino do Pijama Listrado, narra a história de Bruno, um garoto de nove anos, filho de um oficial nazista, que se muda com a família para perto de um campo de concentração durante a Segunda Guerra Mundial. A história, ficcional, foca na inocência infantil e na amizade de Bruno com Shmuel, um garoto judeu preso no campo, do outro lado de uma cerca.",
       "averageRating": 4.8,
       "totalVotes": 12,
@@ -289,53 +154,334 @@
       "views": 285
     },
     {
-      "id": "19",
-      "title": "Os Contos de Beedle O Bardo",
+      "id": "8",
+      "title": "Diário de Anne Frank",
+      "author": "Anne Frank",
+      "channel": "Biboca Diagonal",
+      "narrator": "Mila Tiso",
+      "url": "https://www.youtube.com/watch?v=R94vUqOJdcU",
+      "coverImage": "https://m.media-amazon.com/images/I/51G7Sg0NgRL._SY445_SX342_.jpg",
+      "category": [
+        "Biografia",
+        "Guerra"
+      ],
+      "subCategory": [
+        " Autobiografia",
+        "Narrativa pessoal"
+      ],
+      "synopsis": "O Diário de Anne Frank é um livro escrito por Anne Frank entre 12 de junho de 1942 e 1.º de agosto de 1944 durante a Segunda Guerra Mundial. É conhecido por narrar momentos vivenciados pelo grupo de judeus confinados em um esconderijo durante a ocupação nazista dos Países Baixos.",
+      "averageRating": 5,
+      "totalVotes": 40,
+      "addedDate": "2024-06-15T01:30:00Z",
+      "views": 493
+    },
+    {
+      "id": "9",
+      "title": "Harry Potter e o Cálice de Fogo (Parte 1)",
+      "author": "J. K. Rowling",
+      "channel": "Beatriz Bergamin",
+      "narrator": "Carlos Campanile",
+      "url": "https://www.youtube.com/watch?v=Z6zGNv6e6Jc",
+      "coverImage": "https://m.media-amazon.com/images/I/81nTLN-kz7L.jpg",
+      "category": [
+        "Fantasia",
+        "Aventura"
+      ],
+      "subCategory": [
+        "Harry Potter",
+        "Magia"
+      ],
+      "synopsis": "Harry Potter descobre que é um bruxo e é convidado a estudar na Escola de Magia e Bruxaria de Hogwarts, onde desvenda o mistério por trás da Pedra Filosofal.",
+      "averageRating": 4.8,
+      "totalVotes": 57,
+      "addedDate": "2024-06-14T09:45:00Z",
+      "views": 232000
+    },
+    {
+      "id": "10",
+      "title": "Harry Potter e o Cálice de Fogo (Parte 2)",
+      "author": "J. K. Rowling",
+      "channel": "Beatriz Bergamin",
+      "narrator": "Carlos Campanile",
+      "url": "https://www.youtube.com/watch?v=ukmlcL3NTPQ",
+      "coverImage": "https://m.media-amazon.com/images/I/81nTLN-kz7L.jpg",
+      "category": [
+        "Fantasia",
+        "Aventura"
+      ],
+      "subCategory": [
+        "Harry Potter",
+        "Magia"
+      ],
+      "synopsis": "Harry Potter descobre que é um bruxo e é convidado a estudar na Escola de Magia e Bruxaria de Hogwarts, onde desvenda o mistério por trás da Pedra Filosofal.",
+      "averageRating": 4.8,
+      "totalVotes": 57,
+      "addedDate": "2024-06-14T09:45:00Z",
+      "views": 106000
+    },
+    {
+      "id": "11",
+      "title": "Harry Potter e o Cálice de Fogo (Parte 3)",
+      "author": "J. K. Rowling",
+      "channel": "Beatriz Bergamin",
+      "narrator": "Carlos Campanile",
+      "url": "https://www.youtube.com/watch?v=TYDsvOEC-1w",
+      "coverImage": "https://m.media-amazon.com/images/I/81nTLN-kz7L.jpg",
+      "category": [
+        "Fantasia",
+        "Aventura"
+      ],
+      "subCategory": [
+        "Harry Potter",
+        "Magia"
+      ],
+      "synopsis": "Harry Potter descobre que é um bruxo e é convidado a estudar na Escola de Magia e Bruxaria de Hogwarts, onde desvenda o mistério por trás da Pedra Filosofal.",
+      "averageRating": 4.8,
+      "totalVotes": 57,
+      "addedDate": "2024-06-14T09:45:00Z",
+      "views": 59000
+    },
+    {
+      "id": "12",
+      "title": "Harry Potter e a Ordem da Fênix (Parte 1)",
+      "author": "J. K. Rowling",
+      "channel": "Beatriz Bergamin",
+      "narrator": "Carlos Campanile",
+      "url": "https://www.youtube.com/watch?v=qmM0iCjv2Ns",
+      "coverImage": "https://m.media-amazon.com/images/I/81d6ESyPZwL.jpg",
+      "category": [
+        "Fantasia",
+        "Aventura"
+      ],
+      "subCategory": [
+        "Harry Potter",
+        "Magia"
+      ],
+      "synopsis": "Em Harry Potter e a Ordem da Fênix, Harry retorna para seu quinto ano em Hogwarts enfrentando o ceticismo do Ministério da Magia, que se recusa a acreditar no retorno de Voldemort. Ele funda a Armada de Dumbledore com Rony e Hermione para aprender Defesa Contra as Artes das Trevas, já que a nova professora, Dolores Umbridge, impõe regras rígidas e proíbe a prática da magia.",
+      "averageRating": 4.6,
+      "totalVotes": 22,
+      "addedDate": "2024-06-14T09:45:00Z",
+      "views": 168000
+    },
+    {
+      "id": "13",
+      "title": "Harry Potter e a Ordem da Fênix (Parte 2)",
+      "author": "J. K. Rowling",
+      "channel": "Beatriz Bergamin",
+      "narrator": "Carlos Campanile",
+      "url": "https://www.youtube.com/watch?v=HsB_Oeh9mc0",
+      "coverImage": "https://m.media-amazon.com/images/I/81d6ESyPZwL.jpg",
+      "category": [
+        "Fantasia",
+        "Aventura"
+      ],
+      "subCategory": [
+        "Harry Potter",
+        "Magia"
+      ],
+      "synopsis": "Em Harry Potter e a Ordem da Fênix, Harry retorna para seu quinto ano em Hogwarts enfrentando o ceticismo do Ministério da Magia, que se recusa a acreditar no retorno de Voldemort. Ele funda a Armada de Dumbledore com Rony e Hermione para aprender Defesa Contra as Artes das Trevas, já que a nova professora, Dolores Umbridge, impõe regras rígidas e proíbe a prática da magia.",
+      "averageRating": 4.6,
+      "totalVotes": 22,
+      "addedDate": "2024-06-14T09:45:00Z",
+      "views": 125000
+    },
+    {
+      "id": "14",
+      "title": "Harry Potter e a Ordem da Fênix (Parte 3)",
+      "author": "J. K. Rowling",
+      "channel": "Beatriz Bergamin",
+      "narrator": "Carlos Campanile",
+      "url": "https://www.youtube.com/watch?v=PUPkSXpg5s4",
+      "coverImage": "https://m.media-amazon.com/images/I/81d6ESyPZwL.jpg",
+      "category": [
+        "Fantasia",
+        "Aventura"
+      ],
+      "subCategory": [
+        "Harry Potter",
+        "Magia"
+      ],
+      "synopsis": "Em Harry Potter e a Ordem da Fênix, Harry retorna para seu quinto ano em Hogwarts enfrentando o ceticismo do Ministério da Magia, que se recusa a acreditar no retorno de Voldemort. Ele funda a Armada de Dumbledore com Rony e Hermione para aprender Defesa Contra as Artes das Trevas, já que a nova professora, Dolores Umbridge, impõe regras rígidas e proíbe a prática da magia.",
+      "averageRating": 4.6,
+      "totalVotes": 22,
+      "addedDate": "2024-06-14T09:45:00Z",
+      "views": 109000
+    },
+    {
+      "id": "15",
+      "title": "Harry Potter e o Enigma do Príncipe (Parte 1)",
+      "author": "J. K. Rowling",
+      "channel": "Beatriz Bergamin",
+      "narrator": "Carlos Campanile",
+      "url": "https://www.youtube.com/watch?v=o_VgwrZ76Qg",
+      "coverImage": "https://m.media-amazon.com/images/I/81yFIh1yoZL.jpg",
+      "category": [
+        "Fantasia",
+        "Aventura"
+      ],
+      "subCategory": [
+        "Harry Potter",
+        "Magia"
+      ],
+      "synopsis": "Harry Potter e o Enigma do Príncipe é o sexto livro da série, onde Harry está no seu sexto ano em Hogwarts e enfrenta um período de crescente tensão e medo com a volta de Voldemort e seus Comensais da Morte. O livro explora a infância de Voldemort através de memórias compartilhadas com Dumbledore, revelando detalhes cruciais sobre sua vulnerabilidade.",
+      "averageRating": 4.7,
+      "totalVotes": 33,
+      "addedDate": "2024-06-14T09:45:00Z",
+      "views": 117000
+    },
+    {
+      "id": "16",
+      "title": "Harry Potter e o Enigma do Príncipe (Parte 2)",
+      "author": "J. K. Rowling",
+      "channel": "Beatriz Bergamin",
+      "narrator": "Carlos Campanile",
+      "url": "https://www.youtube.com/watch?v=fH-JNP3u65Q",
+      "coverImage": "https://m.media-amazon.com/images/I/81yFIh1yoZL.jpg",
+      "category": [
+        "Fantasia",
+        "Aventura"
+      ],
+      "subCategory": [
+        "Harry Potter",
+        "Magia"
+      ],
+      "synopsis": "Harry Potter e o Enigma do Príncipe é o sexto livro da série, onde Harry está no seu sexto ano em Hogwarts e enfrenta um período de crescente tensão e medo com a volta de Voldemort e seus Comensais da Morte. O livro explora a infância de Voldemort através de memórias compartilhadas com Dumbledore, revelando detalhes cruciais sobre sua vulnerabilidade.",
+      "averageRating": 4.7,
+      "totalVotes": 33,
+      "addedDate": "2024-06-14T09:45:00Z",
+      "views": 76000
+    },
+    {
+      "id": "17",
+      "title": "Percy Jackson e o Ladrão de Raios",
+      "author": "Rick Riordan",
+      "channel": "Beatriz Bergamin",
+      "narrator": "Danilo Oliveira",
+      "url": "https://www.youtube.com/watch?v=asJ-R3EBzvA",
+      "coverImage": "https://m.media-amazon.com/images/I/A1UjcPz4gZL._UF1000,1000_QL80_.jpg",
+      "category": [
+        "Infantil",
+        "Aventura"
+      ],
+      "subCategory": [
+        "Contos de Fadas",
+        "Magia"
+      ],
+      "synopsis": "Em Percy Jackson e o Ladrão de Raios, Percy descobre ser um semideus, filho de Poseidon, e é acusado de roubar o raio-mestre de Zeus. Com a ajuda de novos amigos, um sátiro e a filha de Atena, ele embarca numa jornada pelos Estados Unidos para encontrar o verdadeiro ladrão e evitar uma guerra entre os deuses.",
+      "averageRating": 4.9,
+      "totalVotes": 71,
+      "addedDate": "2024-06-14T09:45:00Z",
+      "views": 216000
+    },
+    {
+      "id": "18",
+      "title": "Harry Potter e as Relíquias da Morte Parte 1",
       "author": "J. K. Rowling",
       "channel": "Biboca Diagonal",
-      "narrator": "Desconhecido",
-      "url": "https://www.youtube.com/watch?v=KHCiIOpHeDU",
-      "coverImage": "https://m.media-amazon.com/images/I/91HCv8CuZTL.jpg",
-      "category": ["Fantasia", "Aventura"],
-      "subCategory": ["Harry Potter", "Magia"],
-      "synopsis": "Os Contos de Beedle, o Bardo, é uma coleção de cinco contos de fadas do mundo bruxo, escritos por J.K. Rowling, que aparecem no último livro da série Harry Potter, Harry Potter e as Relíquias da Morte, como um presente de Dumbledore para Hermione. Os contos são narrativas com temas de magia, moralidade e lições de vida, e cada um deles é seguido por comentários de Dumbledore, oferecendo perspectivas adicionais e reflexões sobre o significado de cada história.",
-      "averageRating": 4.6,
-      "totalVotes": 18,
-      "addedDate": "2024-06-16T21:14:00Z",
-      "views": 663
-       },
+      "narrator": "Carlos Campanile",
+      "url": "https://www.youtube.com/watch?v=vv1iC3dvrYQ",
+      "coverImage": "https://m.media-amazon.com/images/I/81rvO7xcJOL.jpg",
+      "category": [
+        "Fantasia",
+        "Aventura"
+      ],
+      "subCategory": [
+        "Harry Potter",
+        "Magia"
+      ],
+      "synopsis": "Harry Potter e as Relíquias da Morte é o sétimo e último livro da série, onde Harry, Rony e Hermione embarcam em uma perigosa jornada para encontrar e destruir as Horcruxes restantes de Voldemort, artefatos que contêm fragmentos de sua alma.",
+      "averageRating": 4.3,
+      "totalVotes": 40,
+      "addedDate": "2024-06-14T09:45:00Z",
+      "views": 44000
+    },
+    {
+      "id": "19",
+      "title": "Harry Potter e as Relíquias da Morte Parte 2",
+      "author": "J. K. Rowling",
+      "channel": "Biboca Diagonal",
+      "narrator": "Carlos Campanile",
+      "url": "https://www.youtube.com/watch?v=7UKEphfvV1A",
+      "coverImage": "https://m.media-amazon.com/images/I/81rvO7xcJOL.jpg",
+      "category": [
+        "Fantasia",
+        "Aventura"
+      ],
+      "subCategory": [
+        "Harry Potter",
+        "Magia"
+      ],
+      "synopsis": "Harry Potter e as Relíquias da Morte é o sétimo e último livro da série, onde Harry, Rony e Hermione embarcam em uma perigosa jornada para encontrar e destruir as Horcruxes restantes de Voldemort, artefatos que contêm fragmentos de sua alma.",
+      "averageRating": 4.3,
+      "totalVotes": 40,
+      "addedDate": "2024-06-14T09:45:00Z",
+      "views": 46000
+    },
     {
       "id": "20",
-      "title": "O Hobbit",
-      "author": "J.R.R. Tolkien",
-      "channel": "AUDIOBOOK COLLECTIONS",
-      "narrator": "Mauro Ramos",
-      "url": "https://www.youtube.com/watch?v=Y9zyTUkVqds",
-      "coverImage": "https://m.media-amazon.com/images/I/91M9xPIf10L.jpg",
-      "category": ["Fantasia", "Aventura"],
-      "subCategory": ["Senhor dos aneis", "Magia"],
-      "synopsis": "O Hobbit, de J.R.R. Tolkien, narra a história de Bilbo Bolseiro, um hobbit tranquilo que é arrastado para uma grande aventura. Ele se junta ao mago Gandalf e uma companhia de anões liderados por Thorin Escudo de Carvalho, numa missão para recuperar um tesouro guardado pelo dragão Smaug na Montanha Solitária.",
-      "averageRating": 4.9,
-      "totalVotes": 89,
-      "addedDate": "2024-06-16T21:22:00Z",
-      "views": 6883
-       },
+      "title": "Harry Potter e a Pedra Filosofal",
+      "author": "J. K. Rowling",
+      "channel": "Biboca Diagonal",
+      "narrator": "Jorge Rebello",
+      "url": "https://www.youtube.com/watch?v=_J1Pu-ETeJk",
+      "coverImage": "https://s2.glbimg.com/5XDBjIo9s_D0T94yoG849f3fA-M=/e.glbimg.com/og/ed/f/original/2020/11/24/capa-abook-1-600x600_1.jpg",
+      "category": [
+        "Fantasia",
+        "Aventura"
+      ],
+      "subCategory": [
+        "Harry Potter",
+        "Magia"
+      ],
+      "synopsis": "Harry Potter e a Pedra Filosofal, conta a história de Harry, um órfão que vive com seus tios abusivos. No dia do seu 11º aniversário, ele descobre que é um bruxo e é convidado a estudar na Escola de Magia e Bruxaria de Hogwarts. Lá, ele faz novos amigos, aprende sobre o mundo bruxo e descobre sobre a ameaça de Lord Voldemort, que assassinou seus pais e tenta obter a Pedra Filosofal, um artefato mágico que concede imortalidade.",
+      "averageRating": 5,
+      "totalVotes": 55,
+      "addedDate": "2024-06-13T09:45:00Z",
+      "views": 74000
+    },
     {
       "id": "21",
-      "title": "O Silmarillion",
-      "author": "J.R.R. Tolkien",
-      "channel": "AUDIOBOOK COLLECTIONS",
-      "narrator": "Desconhecido",
-      "url": "https://www.youtube.com/watch?v=4fsA0mJ_cYA",
-      "coverImage": "https://m.media-amazon.com/images/I/51EZZWkTECL._SY445_SX342_.jpg",
-      "category": ["Fantasia", "Aventura"],
-      "subCategory": ["Senhor dos aneis", "Magia"],
-      "synopsis": "O Silmarillion, é um livro de J.R.R. Tolkien que narra a história da Primeira Era da Terra-média, um período anterior aos eventos de O Hobbit e O Senhor dos Anéis. A obra descreve a criação do mundo, a ascensão e queda de reinos élficos, a criação das Silmarils por Fëanor e a luta contra Morgoth, o primeiro Senhor das Trevas, para recuperá-las.",
+      "title": "Harry Potter e a Câmara Secreta",
+      "author": "J. K. Rowling",
+      "channel": "Biboca Diagonal",
+      "narrator": "Jorge Rebello",
+      "url": "https://www.youtube.com/watch?v=giIEAbcPB68",
+      "coverImage": "https://m.media-amazon.com/images/I/81jbivNEVML.jpg",
+      "category": [
+        "Fantasia",
+        "Aventura"
+      ],
+      "subCategory": [
+        "Harry Potter",
+        "Magia"
+      ],
+      "synopsis": "Em Harry Potter e a Câmara Secreta, Harry volta para Hogwarts para o segundo ano, mas encontra a escola assombrada por uma lenda antiga: a abertura da Câmara Secreta, que libera um monstro que petrifica os alunos, especialmente os nascidos-trouxas.",
       "averageRating": 4.7,
-      "totalVotes": 45,
-      "addedDate": "2024-06-16T21:39:00Z",
-      "views": 1694
-       }
-  ],
-  "categorias": {}
+      "totalVotes": 41,
+      "addedDate": "2024-06-13T09:45:00Z",
+      "views": 36000
+    },
+    {
+      "id": "22",
+      "title": "Harry Potter e o Prisioneiro de Azkaban",
+      "author": "J. K. Rowling",
+      "channel": "Beatriz Bergamin",
+      "narrator": "Carlos Campanile",
+      "url": "https://www.youtube.com/watch?v=mDThha5M8eU",
+      "coverImage": "https://m.media-amazon.com/images/I/81u+ljPVifL.jpg",
+      "category": [
+        "Fantasia",
+        "Aventura"
+      ],
+      "subCategory": [
+        "Harry Potter",
+        "Magia"
+      ],
+      "synopsis": "Em Harry Potter e o Prisioneiro de Azkaban, Harry, Ron e Hermione estão no terceiro ano em Hogwarts, quando o prisioneiro Sirius Black foge da prisão de Azkaban. Black, acusado de ser um aliado de Voldemort, é considerado perigoso e está determinado a encontrar Harry",
+      "averageRating": 4.8,
+      "totalVotes": 250,
+      "addedDate": "2024-06-13T09:45:00Z",
+      "views": 410000
+    }
+  ]
 }
