@@ -2,6 +2,196 @@
   "books": [
     {
       "id": "1",
+      "title": "O Sussurrador nas Trevas",
+      "author": "H.P. Lovecraft",
+      "channel": "Nacapa Oficial",
+      "narrator": "Nacapa Oficial",
+      "url": "https://www.youtube.com/watch?v=GpyIFF02KIk",
+      "coverImage": "https://m.media-amazon.com/images/I/91IzUI3wTxL._UF894,1000_QL80_.jpg",
+      "category": [
+        "Terror"
+      ],
+      "subCategory": [
+        "Horror",
+        "Ficção",
+        "Mistério"
+      ],
+      "synopsis": "Uma raça de seres diabólicos, com o corpo que lembra um enorme crustáceo dotado de barbatanas dorsais, faz de Sussurros nas Trevas um dos mais assustadores contos do mestre de terror cósmico H.P. Lovecraft.",
+      "averageRating": 4.3,
+      "totalVotes": 9,
+      "addedDate": "2025-07-15",
+      "views": 90
+    },
+    {
+      "id": "2",
+      "title": "Drácula",
+      "author": "Bram Stoker",
+      "channel": "The Audiobook's Society",
+      "narrator": "marcos gravonski",
+      "url": "https://www.youtube.com/watch?v=jsnXrj3GgcQ",
+      "coverImage": "https://m.media-amazon.com/images/I/61MgodE1s0L._UF1000,1000_QL80_.jpg",
+      "category": [
+        "Terror"
+      ],
+      "subCategory": [
+        "Gótico",
+        "Vampiro",
+        "Mistério",
+        "Ficção"
+      ],
+      "synopsis": "Drácula é um clássico da literatura de terror e apresenta por meio de cartas, diários e notícias os ataques do vampiro Conde Drácula a moradores de Londres e da Transilvânia. O romance epistolar marcou o gênero e, mesmo não sendo a primeira obra a retratar esse mito literário, definiu o que conhecemos hoje como vampiro, influenciando a literatura, cinema e teatro.",
+      "averageRating": 4.9,
+      "totalVotes": 44,
+      "addedDate": "2025-07-15",
+      "views": 5000
+    },
+    {
+      "id": "3",
+      "title": "A História que O Diabo Contou",
+      "author": "Levitas",
+      "channel": "ibamendes",
+      "narrator": "Ibamendes",
+      "url": "https://www.youtube.com/watch?v=MHakBZSExD4",
+      "coverImage": "https://m.media-amazon.com/images/I/7128JKbBtsL._SY342_.jpg",
+      "category": [
+        "Terror"
+      ],
+      "subCategory": [
+        "Suspense"
+      ],
+      "synopsis": "Durante uma crise de existencialismo e melancolia, um homem chamado Gabriel resolve escrever uma carta para o demônio pedindo ajuda, no outro dia ele recebe a estranha visita de um misterioso ser que se identifica como “A entidade”. Após esse assombroso contato, coisas assustadoras começam a acontecer na vida de Gabriel, dentre elas a sensação de estar sendo perseguido por uma fera monstruosa que o caçava em seus sonhos. Como as coisas começam a desmoronar ao seu redor, Gabriel se vê obrigado a superar seus próprios medos. Com suspense de roer as unhas e reviravoltas assustadoras, A História que o Diabo contou é daqueles romances de horror que instigam os instintos mais primitivos do ser humano.",
+      "averageRating": 4,
+      "totalVotes": 3,
+      "addedDate": "2025-07-15",
+      "views": 1422
+    },
+    {
+      "id": "4",
+      "title": "Noite Diabólica",
+      "author": "Rubens Francisco Lucchetti",
+      "channel": "Vitormam - Literatura fantástica e de Terror",
+      "narrator": "Vitor Machado",
+      "url": "https://www.youtube.com/watch?v=nHtGXToma2c",
+      "coverImage": "https://img.skoob.com.br/PDfofg8RNw6DM2QQ53lXI3x86zA=/200x/center/top/smart/filters:format(jpeg)/https://skoob.s3.amazonaws.com/livros/1232297/9788592445799_15912136041232297SK1591213605B.jpg",
+      "category": [
+        "Terror"
+      ],
+      "subCategory": [
+        "Suspense",
+        "Mistério",
+        "Horror",
+        "Literatura Brasileira"
+      ],
+      "synopsis": "Noite Diabólica é uma coletânea de contos do ficcionista R.F. Lucchetti. Publicado originalmente em 1963, pela Editora Outubro, é considerado o primeiro livro de terror genuinamente nacional.",
+      "averageRating": 5,
+      "totalVotes": 56,
+      "addedDate": "2025-07-15",
+      "views": 2200
+    },
+    {
+      "id": "5",
+      "title": "Da Terra a Lua",
+      "author": "Julio Verne",
+      "channel": "LENDO OU OUVINDO?",
+      "narrator": "guilherme teruya",
+      "url": "https://www.youtube.com/watch?v=AtHvggMtdDg",
+      "coverImage": "https://m.media-amazon.com/images/I/713ouAX8DpL._SY385_.jpg",
+      "category": [
+        "Ficção"
+      ],
+      "subCategory": [
+        "Ficção Científica",
+        "Mistério",
+        "Aventura"
+      ],
+      "synopsis": "Da Terra à Lua é a primeira história da exploração espacial escrita. Foi publicada em 1865 e apresenta, de maneira surpreendente, conjectura científica precisa. Quando os membros do Baltimore Gun Club veteranos de guerra entediados decidem embarcar em um projeto para atirar na lua, começa a corrida para arrecadar dinheiro, superar desafios de engenharia e convencer os detratores de que eles não são Lunáticos.",
+      "averageRating": 5,
+      "totalVotes": 78,
+      "addedDate": "2025-07-15",
+      "views": 28
+    },
+    {
+      "id": "6",
+      "title": "O Homem Mais Rico da Babilônia",
+      "author": "George Samuel Clason",
+      "channel": "Liga Mastermind",
+      "narrator": "marcos gravonski",
+      "url": "https://www.youtube.com/watch?v=laEDG8SnbiQ",
+      "coverImage": "https://images-na.ssl-images-amazon.com/images/I/81ehX6Quw2L._AC_UL900_SR615,900_.jpg",
+      "category": [
+        "Autoajuda"
+      ],
+      "subCategory": [
+        "Finanças Pessoais"
+      ],
+      "synopsis": "Ambientado na Babilônia antiga a história conta sobre Bansir um construtor de carruagens que ainda que ganhe um bom dinheiro e viva bem não consegue enriquecer para viver os luxos de alguém verdadeiramente rico. \nBansir percebe que o homem mais rico de toda Babilônia já havia sido seu amigo na infância e decide procurá-lo para que ele o ensine como se tornou Rico, esse homem era Arkad. Arkad então começa a aconselhar o amigo já que antes também fora aconselhado por outro rico, esses conselhos são o ápice da história e de forma atemporal podem ajudar também você a se tornar uma pessoa mais rica.",
+      "averageRating": 4.6,
+      "totalVotes": 122,
+      "addedDate": "2025-07-14",
+      "views": 1304570
+    },
+    {
+      "id": "7",
+      "title": "Poder & Manipulação: Como entender o mundo em vinte lições extraídas de \"O Príncipe\", de Maquiavel",
+      "author": "Jacob Petry",
+      "channel": "Liga Mastermind",
+      "narrator": "marcos gravonski",
+      "url": "https://www.youtube.com/watch?v=o7nmKU5wFVA",
+      "coverImage": "https://m.media-amazon.com/images/I/71kMxITrevL._UF894,1000_QL80_.jpg",
+      "category": [
+        "Filosofia"
+      ],
+      "subCategory": [
+        "Política"
+      ],
+      "synopsis": "Por séculos, pessoas de prestígio e sucesso profissional se debruçaram sobre um dos livros mais influentes de todos os tempos - O Príncipe, de Maquiavel -, em busca de estratégias para alcançarem sucesso e poder. Napoleon Bonaparte, Winston Churchill, Franklin Roosevelt, Tony Blair entre centenas de outras personagens do nosso mundo assumiram publicamente o valor da obra e seu uso prático como um manual para se posicionar adequadamente no jogo do poder. Nesta edição, fruto de um trabalho único na história, os ensinamentos de Maquiavel se tornam mais relacionados ao mundo atual. \"Poder & Manipulação\" não é simplesmente uma nova tradução, mas uma edição da obra original, tal como seria se ela estivesse sendo publicada agora, pela primeira vez, focada nos temas perenes, relevantes ao mundo de hoje.",
+      "averageRating": 4,
+      "totalVotes": 22,
+      "addedDate": "2025-07-14",
+      "views": 14913
+    },
+    {
+      "id": "8",
+      "title": "Horror em Amityville",
+      "author": "Jay Anson",
+      "channel": "Augusto Sales",
+      "narrator": "Augusto Sales",
+      "url": "https://www.youtube.com/watch?v=4EDnyThcNsE",
+      "coverImage": "https://cdn.awsli.com.br/600x700/765/765972/produto/57832056/1-qaiehxlhgv.jpg",
+      "category": [
+        "Terror"
+      ],
+      "subCategory": [
+        "Ficção"
+      ],
+      "synopsis": "A True Story é um livro de ficção de Jay Anson, publicado em setembro de 1977, e que logo se tornou um best seller. O livro também serviu de inspiração para várias adaptações cinematográficas, incluindo o recente The Amityville Horror, remake do filme homônimo de 1979.",
+      "averageRating": 4.7,
+      "totalVotes": 33,
+      "addedDate": "2025-07-14",
+      "views": 1800
+    },
+    {
+      "id": "9",
+      "title": "O Macaco",
+      "author": "Stephen King",
+      "channel": "The Audiobook's Society",
+      "narrator": "The Audiobook's Society",
+      "url": "https://www.youtube.com/watch?v=AVqywchhHyo",
+      "coverImage": "https://darkside.blog.br/wp-content/uploads/2024/09/O-Macaco-733x1024.jpg",
+      "category": [
+        "Terror"
+      ],
+      "subCategory": [
+        "Ficção"
+      ],
+      "synopsis": "Hal encontra um velho macaco de brinquedo no sótão — o mesmo que assombrou sua infância. Toda vez que o macaco bate os pratos, alguém morre. Mas será apenas coincidência?",
+      "averageRating": 4.5,
+      "totalVotes": 12,
+      "addedDate": "2025-07-14",
+      "views": 480
+    },
+    {
+      "id": "10",
       "title": "1408",
       "author": "Stephen King",
       "channel": "Domínio Público",
@@ -23,7 +213,7 @@
       "views": 13974
     },
     {
-      "id": "2",
+      "id": "11",
       "title": "O Silmarillion",
       "author": "J.R.R. Tolkien",
       "channel": "AUDIOBOOK COLLECTIONS",
@@ -45,7 +235,7 @@
       "views": 1694
     },
     {
-      "id": "3",
+      "id": "12",
       "title": "O Hobbit",
       "author": "J.R.R. Tolkien",
       "channel": "AUDIOBOOK COLLECTIONS",
@@ -67,7 +257,7 @@
       "views": 6883
     },
     {
-      "id": "4",
+      "id": "13",
       "title": "Os Contos de Beedle O Bardo",
       "author": "J. K. Rowling",
       "channel": "Biboca Diagonal",
@@ -89,7 +279,7 @@
       "views": 663
     },
     {
-      "id": "5",
+      "id": "14",
       "title": "Animais Fantásticos e onde habitam",
       "author": "J. K. Rowling",
       "channel": "Biboca Diagonal",
@@ -111,7 +301,7 @@
       "views": 2099
     },
     {
-      "id": "6",
+      "id": "15",
       "title": "Moby Dick 1961",
       "author": "Herman Melville",
       "channel": "Biboca Diagonal",
@@ -133,7 +323,7 @@
       "views": 45
     },
     {
-      "id": "7",
+      "id": "16",
       "title": "O menino do pijama listrado",
       "author": "John Boyne",
       "channel": "Biboca Diagonal",
@@ -154,7 +344,7 @@
       "views": 285
     },
     {
-      "id": "8",
+      "id": "17",
       "title": "Diário de Anne Frank",
       "author": "Anne Frank",
       "channel": "Biboca Diagonal",
@@ -176,7 +366,7 @@
       "views": 493
     },
     {
-      "id": "9",
+      "id": "18",
       "title": "Harry Potter e o Cálice de Fogo (Parte 1)",
       "author": "J. K. Rowling",
       "channel": "Beatriz Bergamin",
@@ -198,7 +388,7 @@
       "views": 232000
     },
     {
-      "id": "10",
+      "id": "19",
       "title": "Harry Potter e o Cálice de Fogo (Parte 2)",
       "author": "J. K. Rowling",
       "channel": "Beatriz Bergamin",
@@ -220,7 +410,7 @@
       "views": 106000
     },
     {
-      "id": "11",
+      "id": "20",
       "title": "Harry Potter e o Cálice de Fogo (Parte 3)",
       "author": "J. K. Rowling",
       "channel": "Beatriz Bergamin",
@@ -242,7 +432,7 @@
       "views": 59000
     },
     {
-      "id": "12",
+      "id": "21",
       "title": "Harry Potter e a Ordem da Fênix (Parte 1)",
       "author": "J. K. Rowling",
       "channel": "Beatriz Bergamin",
@@ -264,7 +454,7 @@
       "views": 168000
     },
     {
-      "id": "13",
+      "id": "22",
       "title": "Harry Potter e a Ordem da Fênix (Parte 2)",
       "author": "J. K. Rowling",
       "channel": "Beatriz Bergamin",
@@ -286,7 +476,7 @@
       "views": 125000
     },
     {
-      "id": "14",
+      "id": "23",
       "title": "Harry Potter e a Ordem da Fênix (Parte 3)",
       "author": "J. K. Rowling",
       "channel": "Beatriz Bergamin",
@@ -308,7 +498,7 @@
       "views": 109000
     },
     {
-      "id": "15",
+      "id": "24",
       "title": "Harry Potter e o Enigma do Príncipe (Parte 1)",
       "author": "J. K. Rowling",
       "channel": "Beatriz Bergamin",
@@ -330,7 +520,7 @@
       "views": 117000
     },
     {
-      "id": "16",
+      "id": "25",
       "title": "Harry Potter e o Enigma do Príncipe (Parte 2)",
       "author": "J. K. Rowling",
       "channel": "Beatriz Bergamin",
@@ -352,7 +542,7 @@
       "views": 76000
     },
     {
-      "id": "17",
+      "id": "26",
       "title": "Percy Jackson e o Ladrão de Raios",
       "author": "Rick Riordan",
       "channel": "Beatriz Bergamin",
@@ -374,7 +564,7 @@
       "views": 216000
     },
     {
-      "id": "18",
+      "id": "27",
       "title": "Harry Potter e as Relíquias da Morte Parte 1",
       "author": "J. K. Rowling",
       "channel": "Biboca Diagonal",
@@ -396,7 +586,7 @@
       "views": 44000
     },
     {
-      "id": "19",
+      "id": "28",
       "title": "Harry Potter e as Relíquias da Morte Parte 2",
       "author": "J. K. Rowling",
       "channel": "Biboca Diagonal",
@@ -418,7 +608,7 @@
       "views": 46000
     },
     {
-      "id": "20",
+      "id": "29",
       "title": "Harry Potter e a Pedra Filosofal",
       "author": "J. K. Rowling",
       "channel": "Biboca Diagonal",
@@ -440,7 +630,7 @@
       "views": 74000
     },
     {
-      "id": "21",
+      "id": "30",
       "title": "Harry Potter e a Câmara Secreta",
       "author": "J. K. Rowling",
       "channel": "Biboca Diagonal",
@@ -462,7 +652,7 @@
       "views": 36000
     },
     {
-      "id": "22",
+      "id": "31",
       "title": "Harry Potter e o Prisioneiro de Azkaban",
       "author": "J. K. Rowling",
       "channel": "Beatriz Bergamin",
