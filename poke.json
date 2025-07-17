@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Bulbasaur",
+    "types": ["grass", "poison"],
+    "stats": { "hp": 45, "attack": 49, "defense": 49, "speed": 45 },
+    "height": 0.7,
+    "weight": 6.9,
+    "abilities": ["Overgrow", "Chlorophyll"],
+    "description": "Um Pokémon quadrúpede com uma semente em suas costas. Pode ficar dias sem comer graças aos nutrientes armazenados na semente.",
+    "evolution": { "next": "Ivysaur", "level": 16 },
+    "image": "keys/bulbasaur?prompt=Bulbasaur%20pokemon%20official%20art%20style%20green%20quadruped%20with%20bulb"
+  },
+  {
+    "id": 2,
+    "name": "Ivysaur",
+    "types": ["grass", "poison"],
+    "stats": { "hp": 60, "attack": 62, "defense": 63, "speed": 60 },
+    "height": 1.0,
+    "weight": 13.0,
+    "abilities": ["Overgrow", "Chlorophyll"],
+    "description": "Quando o bulbo em suas costas cresce, parece perder a habilidade de ficar em pé nas patas traseiras.",
+    "evolution": { "prev": "Bulbasaur", "next": "Venusaur", "level": 32 },
+    "image": "keys/ivysaur?prompt=Ivysaur%20pokemon%20official%20art%20style%20blue%20green%20with%20flower%20bud"
+  },
+  {
+    "id": 3,
+    "name": "Venusaur",
+    "types": ["grass", "poison"],
+    "stats": { "hp": 80, "attack": 82, "defense": 83, "speed": 80 },
+    "height": 2.0,
+    "weight": 100.0,
+    "abilities": ["Overgrow", "Chlorophyll"],
+    "description": "A planta floresce quando está absorvendo energia solar. Permanece em movimento para buscar luz solar.",
+    "evolution": { "prev": "Ivysaur" },
+    "image": "keys/venusaur?prompt=Venusaur%20pokemon%20official%20art%20style%20large%20dinosaur%20with%20flower"
+  },
+  {
+    "id": 4,
+    "name": "Charmander",
+    "types": ["fire"],
+    "stats": { "hp": 39, "attack": 52, "defense": 43, "speed": 65 },
+    "height": 0.6,
+    "weight": 8.5,
+    "abilities": ["Blaze", "Solar Power"],
+    "description": "Prefere coisas quentes. Quando chove, dizem que vapor sai da ponta de sua cauda.",
+    "evolution": { "next": "Charmeleon", "level": 16 },
+    "image": "keys/charmander?prompt=Charmander%20pokemon%20official%20art%20style%20orange%20lizard%20with%20flame%20tail"
+  },
+  {
+    "id": 5,
+    "name": "Charmeleon",
+    "types": ["fire"],
+    "stats": { "hp": 58, "attack": 64, "defense": 58, "speed": 80 },
+    "height": 1.1,
+    "weight": 19.0,
+    "abilities": ["Blaze", "Solar Power"],
+    "description": "Tem uma natureza selvagem. Está constantemente procurando por oponentes mais fortes.",
+    "evolution": { "prev": "Charmander", "next": "Charizard", "level": 36 },
+    "image": "keys/charmeleon?prompt=Charmeleon%20pokemon%20official%20art%20style%20red%20orange%20lizard%20bipedal"
+  },
+  {
+    "id": 6,
+    "name": "Charizard",
+    "types": ["fire", "flying"],
+    "stats": { "hp": 78, "attack": 84, "defense": 78, "speed": 100 },
+    "height": 1.7,
+    "weight": 90.5,
+    "abilities": ["Blaze", "Solar Power"],
+    "description": "Cospe fogo que é quente o suficiente para derreter qualquer coisa. Mas nunca volta suas chamas para oponentes mais fracos.",
+    "evolution": { "prev": "Charmeleon" },
+    "image": "keys/charizard?prompt=Charizard%20pokemon%20official%20art%20style%20orange%20dragon%20with%20wings%20breathing%20fire"
+  },
+  {
+    "id": 7,
+    "name": "Squirtle",
+    "types": ["water"],
+    "stats": { "hp": 44, "attack": 48, "defense": 65, "speed": 43 },
+    "height": 0.5,
+    "weight": 9.0,
+    "abilities": ["Torrent", "Rain Dish"],
+    "description": "Depois de nascer, suas costas incham e endurecem em um casco. Esguicha espuma poderosamente de sua boca.",
+    "evolution": { "next": "Wartortle", "level": 16 },
+    "image": "keys/squirtle?prompt=Squirtle%20pokemon%20official%20art%20style%20blue%20turtle%20with%20shell"
+  },
+  {
+    "id": 8,
+    "name": "Wartortle",
+    "types": ["water"],
+    "stats": { "hp": 59, "attack": 63, "defense": 80, "speed": 58 },
+    "height": 1.0,
+    "weight": 22.5,
+    "abilities": ["Torrent", "Rain Dish"],
+    "description": "É reconhecido como um símbolo de longevidade. Se seu casco tem algas, esse Wartortle é muito velho.",
+    "evolution": { "prev": "Squirtle", "next": "Blastoise", "level": 36 },
+    "image": "keys/wartortle?prompt=Wartortle%20pokemon%20official%20art%20style%20blue%20turtle%20with%20fluffy%20tail"
+  },
+  {
+    "id": 9,
+    "name": "Blastoise",
+    "types": ["water"],
+    "stats": { "hp": 79, "attack": 83, "defense": 100, "speed": 78 },
+    "height": 1.6,
+    "weight": 85.5,
+    "abilities": ["Torrent", "Rain Dish"],
+    "description": "Um Pokémon brutal com canhões pressurizado em seu casco. Eles são usados para ataques de alta velocidade.",
+    "evolution": { "prev": "Wartortle" },
+    "image": "keys/blastoise?prompt=Blastoise%20pokemon%20official%20art%20style%20blue%20turtle%20with%20water%20cannons"
+  },
+  {
+    "id": 10,
+    "name": "Caterpie",
+    "types": ["bug"],
+    "stats": { "hp": 45, "attack": 30, "defense": 35, "speed": 45 },
+    "height": 0.3,
+    "weight": 2.9,
+    "abilities": ["Shield Dust", "Run Away"],
+    "description": "Suas patas curtas são cobertas por ventosas que permitem que ele escale paredes inclinadas.",
+    "evolution": { "next": "Metapod", "level": 7 },
+    "image": "keys/caterpie?prompt=Caterpie%20pokemon%20official%20art%20style%20green%20worm%20caterpillar"
+  }
+]
