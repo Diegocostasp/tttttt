@@ -15,6 +15,7 @@
       "compatibilityColor": "#10B981",
       "category": "Plataforma",
       "downloadUrl": "https://example.com/downloads/mario.apk"
+        "obbUrl": "link-do-obb.obb"
     },
     {
       "id": 2,
