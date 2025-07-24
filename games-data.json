@@ -209,5 +209,55 @@
       "link": "https://t.me/retrogamingcommunity",
       "description": "Comunidade global de gaming retrô"
     }
+  ],
+  "youtubeChannels": [
+    {
+      "name": "Retro Gaming BR",
+      "link": "https://youtube.com/@retrogamingbr",
+      "description": "Canal brasileiro de jogos retrô e reviews completas",
+      "subscribers": "85K"
+    },
+    {
+      "name": "Handheld Brasil",
+      "link": "https://youtube.com/@handheldbrasilchannel",
+      "description": "Reviews detalhadas de consoles portáteis",
+      "subscribers": "42K"
+    },
+    {
+      "name": "R36S Gaming",
+      "link": "https://youtube.com/@r36sgaming",
+      "description": "Tutoriais, dicas e jogos para R36S",
+      "subscribers": "38K"
+    },
+    {
+      "name": "Classic Gaming",
+      "link": "https://youtube.com/@classicgaming",
+      "description": "Os melhores jogos clássicos de todos os tempos",
+      "subscribers": "120K"
+    },
+    {
+      "name": "Emulation Station",
+      "link": "https://youtube.com/@emulationstation",
+      "description": "Guias de emulação e configuração",
+      "subscribers": "67K"
+    },
+    {
+      "name": "Pixel Perfect",
+      "link": "https://youtube.com/@pixelperfect",
+      "description": "Análises profundas de jogos retrô",
+      "subscribers": "95K"
+    },
+    {
+      "name": "Handheld Heroes",
+      "link": "https://youtube.com/@handheldheroes",
+      "description": "Comparativos entre consoles portáteis",
+      "subscribers": "73K"
+    },
+    {
+      "name": "Retro Tech Brasil",
+      "link": "https://youtube.com/@retrotechbrasil",
+      "description": "Tecnologia retrô e modificações",
+      "subscribers": "54K"
+    }
   ]
 }
