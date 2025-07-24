@@ -1,0 +1,213 @@
+{
+  "siteInfo": {
+    "title": "Retro Games Store",
+    "subtitle": "Jogos clássicos para seu console portátil",
+    "version": "1.0.0"
+  },
+  "games": [
+    {
+      "id": 1,
+      "name": "Super Mario Bros",
+      "image": "keys/mario?prompt=Super%20Mario%20Bros%20classic%20game%20cover%20art%20pixel%20style",
+      "description": "O clássico jogo de plataforma que revolucionou os videogames. Ajude Mario a resgatar a Princesa Peach do malvado Bowser através de 8 mundos cheios de desafios.",
+      "console": "R36S",
+      "compatibility": "excellent",
+      "compatibilityColor": "#10B981",
+      "category": "Plataforma",
+      "downloadUrl": "https://example.com/downloads/mario.apk"
+    },
+    {
+      "id": 2,
+      "name": "The Legend of Zelda",
+      "image": "keys/zelda?prompt=The%20Legend%20of%20Zelda%20classic%20NES%20game%20cover%20art",
+      "description": "Embarque numa aventura épica como Link para salvar a Princesa Zelda e recuperar os fragmentos da Triforce. Um dos maiores RPGs de todos os tempos.",
+      "console": "R36S", 
+      "compatibility": "excellent",
+      "compatibilityColor": "#10B981",
+      "category": "RPG",
+      "downloadUrl": "https://example.com/downloads/zelda.apk"
+    },
+    {
+      "id": 3,
+      "name": "Sonic the Hedgehog",
+      "image": "keys/sonic?prompt=Sonic%20the%20Hedgehog%20Sega%20Genesis%20game%20cover%20blue%20hedgehog",
+      "description": "Corra em alta velocidade com Sonic através de loops e obstáculos para derrotar o Dr. Robotnik. Colete anéis dourados e liberte os animais aprisionados.",
+      "console": "RG35XX",
+      "compatibility": "good",
+      "compatibilityColor": "#EAB308",
+      "category": "Plataforma",
+      "downloadUrl": "https://example.com/downloads/sonic.apk"
+    },
+    {
+      "id": 4,
+      "name": "Street Fighter II",
+      "image": "keys/streetfighter?prompt=Street%20Fighter%202%20arcade%20game%20cover%20fighting%20game",
+      "description": "O lendário jogo de luta que definiu o gênero. Escolha entre 8 lutadores únicos e domine combos especiais para se tornar o campeão mundial.",
+      "console": "Miyoo Mini",
+      "compatibility": "good",
+      "compatibilityColor": "#EAB308",
+      "category": "Luta",
+      "downloadUrl": "https://example.com/downloads/streetfighter2.apk"
+    },
+    {
+      "id": 5,
+      "name": "Mega Man X",
+      "image": "keys/megamanx?prompt=Mega%20Man%20X%20SNES%20game%20cover%20blue%20robot%20armor",
+      "description": "Jogue como X, o robô androide criado pelo Dr. Light, numa batalha épica contra os Mavericks. Adquira novas habilidades ao derrotar chefes.",
+      "console": "Steam Deck",
+      "compatibility": "excellent",
+      "compatibilityColor": "#10B981",
+      "category": "Ação",
+      "downloadUrl": "https://example.com/downloads/megamanx.apk"
+    },
+    {
+      "id": 6,
+      "name": "Pac-Man",
+      "image": "keys/pacman?prompt=Pac-Man%20classic%20arcade%20game%20yellow%20character%20maze",
+      "description": "O clássico jogo arcade onde você controla Pac-Man comendo pontos num labirinto enquanto foge dos fantasmas coloridos. Simples mas viciante!",
+      "console": "R36S",
+      "compatibility": "poor",
+      "compatibilityColor": "#EF4444",
+      "category": "Arcade",
+      "downloadUrl": "https://example.com/downloads/pacman.apk"
+    },
+    {
+      "id": 7,
+      "name": "Donkey Kong",
+      "image": "keys/donkeykong?prompt=Donkey%20Kong%20classic%20arcade%20game%20cover%20gorilla%20barrels",
+      "description": "Ajude Mario a subir pela construção enfrentando barris e obstáculos para resgatar Pauline das garras do Donkey Kong.",
+      "console": "R36S",
+      "compatibility": "excellent",
+      "compatibilityTag": "🟢",
+      "compatibilityColor": "#10B981",
+      "category": "Arcade",
+      "downloadUrl": "https://example.com/downloads/donkeykong.apk"
+    },
+    {
+      "id": 8,
+      "name": "Metroid",
+      "image": "keys/metroid?prompt=Metroid%20NES%20game%20cover%20space%20bounty%20hunter%20Samus",
+      "description": "Explore o planeta Zebes como a caçadora de recompensas Samus Aran em busca dos Metroids e enfrente a Mãe Cerebro.",
+      "console": "RG35XX",
+      "compatibility": "good",
+      "compatibilityTag": "🟡",
+      "compatibilityColor": "#EAB308",
+      "category": "Aventura",
+      "downloadUrl": "https://example.com/downloads/metroid.apk"
+    },
+    {
+      "id": 9,
+      "name": "Castlevania",
+      "image": "keys/castlevania?prompt=Castlevania%20NES%20game%20cover%20vampire%20hunter%20whip",
+      "description": "Entre no castelo de Drácula como Simon Belmont armado com seu chicote sagrado para derrotar as criaturas da noite.",
+      "console": "Miyoo Mini",
+      "compatibility": "excellent",
+      "compatibilityTag": "🟢",
+      "compatibilityColor": "#10B981",
+      "category": "Ação",
+      "downloadUrl": "https://example.com/downloads/castlevania.apk"
+    },
+    {
+      "id": 10,
+      "name": "Final Fantasy",
+      "image": "keys/finalfantasy?prompt=Final%20Fantasy%20NES%20RPG%20game%20cover%20fantasy%20adventure",
+      "description": "Embarque numa jornada épica com quatro guerreiros da luz para salvar o mundo das trevas neste RPG clássico.",
+      "console": "Steam Deck",
+      "compatibility": "good",
+      "compatibilityTag": "🟡",
+      "compatibilityColor": "#EAB308",
+      "category": "RPG",
+      "downloadUrl": "https://example.com/downloads/finalfantasy.apk"
+    },
+    {
+      "id": 11,
+      "name": "Contra",
+      "image": "keys/contra?prompt=Contra%20NES%20action%20game%20cover%20soldiers%20weapons",
+      "description": "Jogo de ação cooperativo onde dois comandos enfrentam uma invasão alienígena com muito tiro e adrenalina.",
+      "console": "R36S",
+      "compatibility": "poor",
+      "compatibilityTag": "🔴",
+      "compatibilityColor": "#EF4444",
+      "category": "Ação",
+      "downloadUrl": "https://example.com/downloads/contra.apk"
+    },
+    {
+      "id": 12,
+      "name": "Tetris",
+      "image": "keys/tetris?prompt=Tetris%20Game%20Boy%20puzzle%20game%20falling%20blocks",
+      "description": "O viciante jogo de quebra-cabeça onde você deve encaixar blocos que caem para formar linhas completas.",
+      "console": "RG35XX",
+      "compatibility": "excellent",
+      "compatibilityTag": "🟢",
+      "compatibilityColor": "#10B981",
+      "category": "Puzzle",
+      "downloadUrl": "https://example.com/downloads/tetris.apk"
+    },
+    {
+      "id": 13,
+      "name": "Minecraft",
+      "image": "keys/minecraft?prompt=Minecraft%20sandbox%20game%20cover%20blocks%20crafting",
+      "description": "O famoso jogo sandbox onde você pode construir, explorar e sobreviver em mundos infinitos feitos de blocos.",
+      "console": "Steam Deck",
+      "compatibility": "excellent",
+      "compatibilityColor": "#10B981",
+      "category": "Sandbox",
+      "downloadUrl": "https://example.com/downloads/minecraft.apk"
+    },
+    {
+      "id": 14,
+      "name": "Subnautica",
+      "image": "keys/subnautica?prompt=Subnautica%20survival%20underwater%20game%20ocean%20exploration",
+      "description": "Jogo de sobrevivência em mundo aberto subaquático. Explore oceanos alienígenas, construa bases e descubra os mistérios do planeta.",
+      "console": "Steam Deck",
+      "compatibility": "good",
+      "compatibilityColor": "#EAB308",
+      "category": "Survival",
+      "downloadUrl": "https://example.com/downloads/subnautica.apk"
+    },
+    {
+      "id": 15,
+      "name": "Terraria",
+      "image": "keys/terraria?prompt=Terraria%202D%20sandbox%20adventure%20game%20pixel%20art",
+      "description": "Jogo de aventura sandbox 2D com elementos de construção, exploração e combate contra criaturas fantásticas.",
+      "console": "R36S",
+      "compatibility": "good",
+      "compatibilityColor": "#EAB308",
+      "category": "Sandbox",
+      "downloadUrl": "https://example.com/downloads/terraria.apk"
+    },
+    {
+      "id": 16,
+      "name": "Don't Starve",
+      "image": "keys/dontstarve?prompt=Don't%20Starve%20survival%20game%20dark%20tim%20burton%20style",
+      "description": "Jogo de sobrevivência com arte única onde você deve coletar recursos, criar itens e sobreviver em um mundo misterioso.",
+      "console": "Miyoo Mini",
+      "compatibility": "excellent",
+      "compatibilityColor": "#10B981",
+      "category": "Survival",
+      "downloadUrl": "https://example.com/downloads/dontstarve.apk"
+    }
+  ],
+  "telegramGroups": [
+    {
+      "name": "Retro Games Brasil",
+      "link": "https://t.me/retrogamesbrasil",
+      "description": "Comunidade brasileira de jogos retrô"
+    },
+    {
+      "name": "R36S Owners",
+      "link": "https://t.me/r36sowners", 
+      "description": "Grupo oficial dos usuários R36S"
+    },
+    {
+      "name": "Handheld Gaming",
+      "link": "https://t.me/handheldgaming",
+      "description": "Discussões sobre consoles portáteis"
+    },
+    {
+      "name": "Retro Gaming Community",
+      "link": "https://t.me/retrogamingcommunity",
+      "description": "Comunidade global de gaming retrô"
+    }
+  ]
+}
