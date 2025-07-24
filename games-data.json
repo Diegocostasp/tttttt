@@ -15,7 +15,6 @@
       "compatibilityColor": "#10B981",
       "category": "Plataforma",
       "downloadUrl": "https://example.com/downloads/mario.apk"
-        "obbUrl": "link-do-obb.obb"
     },
     {
       "id": 2,
@@ -153,7 +152,8 @@
       "compatibility": "excellent",
       "compatibilityColor": "#10B981",
       "category": "Sandbox",
-      "downloadUrl": "https://example.com/downloads/minecraft.apk"
+      "downloadUrl": "https://example.com/downloads/minecraft.apk",
+      "obbUrl": "https://example.com/downloads/minecraft.obb"
     },
     {
       "id": 14,
@@ -164,7 +164,8 @@
       "compatibility": "good",
       "compatibilityColor": "#EAB308",
       "category": "Survival",
-      "downloadUrl": "https://example.com/downloads/subnautica.apk"
+      "downloadUrl": "https://example.com/downloads/subnautica.apk",
+      "obbUrl": "https://example.com/downloads/subnautica.obb"
     },
     {
       "id": 15,
@@ -187,6 +188,18 @@
       "compatibilityColor": "#10B981",
       "category": "Survival",
       "downloadUrl": "https://example.com/downloads/dontstarve.apk"
+    },
+    {
+      "id": 17,
+      "name": "Grand Theft Auto: San Andreas",
+      "image": "keys/gtasa?prompt=GTA%20San%20Andreas%20game%20cover%20gangster%20action",
+      "description": "O clássico jogo de mundo aberto onde você controla Carl Johnson em sua jornada pelas ruas de San Andreas. Ação, carros e muita aventura.",
+      "console": "Steam Deck",
+      "compatibility": "excellent",
+      "compatibilityColor": "#10B981",
+      "category": "Ação",
+      "downloadUrl": "https://example.com/downloads/gtasa.apk",
+      "obbUrl": "https://example.com/downloads/gtasa.obb"
     }
   ],
   "telegramGroups": [
