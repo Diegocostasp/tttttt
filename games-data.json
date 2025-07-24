@@ -204,74 +204,74 @@
   ],
   "telegramGroups": [
     {
-      "name": "Retro Games Brasil",
-      "link": "https://t.me/retrogamesbrasil",
-      "description": "Comunidade brasileira de jogos retrô"
+      "name": "R36s Brasil",
+      "link": "https://t.me/r36sbr",
+      "description": "Comunidade brasileira do portátil R36s"
     },
     {
-      "name": "R36S Owners",
-      "link": "https://t.me/r36sowners", 
-      "description": "Grupo oficial dos usuários R36S"
+      "name": "R36s En Español",
+      "link": "https://t.me/R36sEnES", 
+      "description": "Comunidad Español portátil R36s"
     },
     {
-      "name": "Handheld Gaming",
-      "link": "https://t.me/handheldgaming",
-      "description": "Discussões sobre consoles portáteis"
+      "name": "Comunidad R36S",
+      "link": "https://t.me/R36Stelegram",
+      "description": "Comunidad de consolas R36s."
     },
     {
-      "name": "Retro Gaming Community",
-      "link": "https://t.me/retrogamingcommunity",
-      "description": "Comunidade global de gaming retrô"
+      "name": "PortMaster RU Chat",
+      "link": "https://t.me/PortMasterRU_Chat",
+      "description": "сообщество портмастера"
     }
   ],
   "youtubeChannels": [
     {
-      "name": "Retro Gaming BR",
-      "link": "https://youtube.com/@retrogamingbr",
+      "name": "Sabrina",
+      "link": "https://www.youtube.com/@sabrinabroch1",
       "description": "Canal brasileiro de jogos retrô e reviews completas",
-      "subscribers": "85K"
+      "subscribers": "5,61k"
     },
     {
-      "name": "Handheld Brasil",
-      "link": "https://youtube.com/@handheldbrasilchannel",
+      "name": "POCKET HYPE",
+      "link": "https://www.youtube.com/@canalpockethype",
       "description": "Reviews detalhadas de consoles portáteis",
-      "subscribers": "42K"
+      "subscribers": "47,5K"
     },
     {
-      "name": "R36S Gaming",
-      "link": "https://youtube.com/@r36sgaming",
-      "description": "Tutoriais, dicas e jogos para R36S",
-      "subscribers": "38K"
+      "name": "SjslTech",
+      "link": "https://www.youtube.com/@SjslTech",
+      "description": "Tutoriais, dicas e jogos para R36S e outros",
+      "subscribers": "2,7K"
     },
     {
-      "name": "Classic Gaming",
-      "link": "https://youtube.com/@classicgaming",
-      "description": "Os melhores jogos clássicos de todos os tempos",
-      "subscribers": "120K"
+      "name": "Goku Gameplay",
+      "link": "https://www.youtube.com/@Gokugameplay2",
+      "description": "Tutoriais, dicas e jogos para R36S e outros",
+      "subscribers": "4,49K"
     },
     {
-      "name": "Emulation Station",
-      "link": "https://youtube.com/@emulationstation",
+      "name": "livre",
+      "link": "livre",
       "description": "Guias de emulação e configuração",
-      "subscribers": "67K"
+      "subscribers": "livre"
     },
     {
-      "name": "Pixel Perfect",
-      "link": "https://youtube.com/@pixelperfect",
+      "name": "livre",
+      "link": "livre",
       "description": "Análises profundas de jogos retrô",
-      "subscribers": "95K"
+      "subscribers": "livre"
     },
     {
-      "name": "Handheld Heroes",
-      "link": "https://youtube.com/@handheldheroes",
+      "name": "livre",
+      "link": "https://youtube.com/@livre",
       "description": "Comparativos entre consoles portáteis",
-      "subscribers": "73K"
+      "subscribers": "livre"
     },
     {
-      "name": "Retro Tech Brasil",
-      "link": "https://youtube.com/@retrotechbrasil",
+      "name": "livre",
+      "link": "https://youtube.com/@livre",
       "description": "Tecnologia retrô e modificações",
-      "subscribers": "54K"
+      "subscribers": "livre"
     }
   ]
 }
