@@ -2,6 +2,215 @@
   "books": [
     {
       "id": "1",
+      "title": "Memórias do Subsolo",
+      "author": "Dostoiévski",
+      "channel": "The Audiobook's Society",
+      "narrator": "Youssef Barros",
+      "url": "https://www.youtube.com/watch?v=pcE7kXASGVs",
+      "coverImage": "https://m.media-amazon.com/images/I/91TRcz0q+pL.jpg",
+      "category": [
+        "Ficção"
+      ],
+      "subCategory": [
+        "Clássicos de Ficção",
+        "Ficção Literária"
+      ],
+      "synopsis": "Nesta obra-prima da literatura mundial, o genial Dostoiévski, um dos maiores autores de todos os tempos, traz uma narrativa intensa que nos convida a embarcar em uma viagem pelas memórias de um ex-funcionário público que, no auge de seus quarenta anos, vive no seu subsolo da repartição em que trabalhava. Dividida em duas partes, Memórias do subsolo, traz as confissões mentais do personagem, revelando seus pensamentos mais íntimos e sua visão sobre si mesmo e de alguns episódios de sua juventude, em muitos dos quais se sentiu humilhado, revelando-se decisivos para a formação de sua personalidade mordaz.",
+      "averageRating": 4.6,
+      "totalVotes": 11,
+      "addedDate": "2025-08-20",
+      "views": 62000
+    },
+    {
+      "id": "2",
+      "title": "A Bíblia de Vendas",
+      "author": "Jeffrey Gitomer",
+      "channel": "Desenvolvimento na Prática",
+      "narrator": "Desconhecido ou IA",
+      "url": "https://www.youtube.com/watch?v=yw4aEqXUmic",
+      "coverImage": "https://m.media-amazon.com/images/I/614xDi5vVTL.jpg",
+      "category": [
+        "Negócios e Economia"
+      ],
+      "subCategory": [
+        "Vendas e Vendedores",
+        "Gestão e Liderança"
+      ],
+      "synopsis": "Consagrado como o melhor livro de vendas já publicado, este best-seller tem ajudado centenas de milhares de pessoas a enfrentar e resolver os desafios de vendas. Esta nova Edição Atualizada inclui os 10,5 Mandamentos do Sucesso em Vendas de Jeffrey Gitomer. Jeffrey Gitomer é uma autoridade global em vendas e seus livros já venderam mais de um milhão de cópias em todo mundo. A Bíblia de Vendas tornou-se um clássico no mercado editorial mundial e tem sido best-seller por mais de uma década.",
+      "averageRating": 4.4,
+      "totalVotes": 33,
+      "addedDate": "2025-08-20",
+      "views": 200000
+    },
+    {
+      "id": "3",
+      "title": "Devorador de Estrelas parte 1",
+      "author": "Andy Weir",
+      "channel": "Gabinete de História",
+      "narrator": "Rafael Maia",
+      "url": "https://www.youtube.com/watch?v=5yZVqEAAbn8",
+      "coverImage": "https://m.media-amazon.com/images/I/51a9lBsBLKL._SL500_.jpg",
+      "category": [
+        "Ficção"
+      ],
+      "subCategory": [
+        "Ficção Científica",
+        "Aventura"
+      ],
+      "synopsis": "Ryland Grace é o único sobrevivente de uma desesperada missão de emergência ― se ele falhar, toda a humanidade e o planeta Terra serão destruídos.\nMas no momento ele não sabe disso. Ryland não se lembra nem do próprio nome, muito menos de sua missão ou de como cumpri-la. Tudo o que ele sabe é que dormiu por muito, muito tempo.",
+      "averageRating": 4.6,
+      "totalVotes": 55,
+      "addedDate": "2025-08-20",
+      "views": 18000
+    },
+    {
+      "id": "4",
+      "title": "Devorador de Estrelas parte 2 (final)",
+      "author": "Andy Weir",
+      "channel": "Gabinete de História",
+      "narrator": "Rafael Maia",
+      "url": "https://www.youtube.com/watch?v=afv1LUiByl0",
+      "coverImage": "https://m.media-amazon.com/images/I/51a9lBsBLKL._SL500_.jpg",
+      "category": [
+        "Ficção"
+      ],
+      "subCategory": [
+        "Ficção Científica",
+        "Aventura"
+      ],
+      "synopsis": "Ryland Grace é o único sobrevivente de uma desesperada missão de emergência ― se ele falhar, toda a humanidade e o planeta Terra serão destruídos.\nMas no momento ele não sabe disso. Ryland não se lembra nem do próprio nome, muito menos de sua missão ou de como cumpri-la. Tudo o que ele sabe é que dormiu por muito, muito tempo.",
+      "averageRating": 4.5,
+      "totalVotes": 42,
+      "addedDate": "2025-08-20",
+      "views": 11000
+    },
+    {
+      "id": "5",
+      "title": "A Máquina do Tempo",
+      "author": "H. G. Wells",
+      "channel": "Gabinete de História",
+      "narrator": "Lino Reis",
+      "url": "https://www.youtube.com/watch?v=lUCGx8MlokU",
+      "coverImage": "https://m.media-amazon.com/images/I/71cL9wegDQL._UF1000,1000_QL80_.jpg",
+      "category": [
+        "Ficção",
+        "Literatura"
+      ],
+      "subCategory": [
+        "Viagem do Tempo"
+      ],
+      "synopsis": "O personagem central, um cientista apresentado na trama apenas como o Viajante do Tempo, constrói uma máquina capaz de viajar pela quarta dimensão.\n\nAo testá-la, é transportado para o ano de 802.701, em um mundo povoado pelos pacíficos elóis.\n\nMas os elóis não são os únicos habitantes dessa nova Terra, e o Viajante do Tempo terá de enfrentar os morlocks, seres que vivem nos subterrâneos e guardam um importante segredo sobre o destino da humanidade.",
+      "averageRating": 4.7,
+      "totalVotes": 122,
+      "addedDate": "2025-08-20",
+      "views": 8600
+    },
+    {
+      "id": "6",
+      "title": "O homem invisível",
+      "author": "H. G. Wells",
+      "channel": "Gabinete de História",
+      "narrator": "Sidney Ferreira",
+      "url": "https://www.youtube.com/watch?v=7X-jCboeRyY",
+      "coverImage": "https://m.media-amazon.com/images/I/51K1z-artML._SL500_.jpg",
+      "category": [
+        "Terror"
+      ],
+      "subCategory": [
+        "Mistério",
+        "Intriga",
+        "Suspense"
+      ],
+      "synopsis": "Em uma noite gelada, surge numa cidade isolada na Inglaterra um desconhecido à procura de abrigo. Com o rosto coberto de bandagens, enluvado e de óculos escuros, esse homem distante e misterioso não quer ser incomodado... Mas esse homem esconde um estranho segredo: após fazer experiências, ele obteve o poder da invisibilidade, mas não consegue voltar ao normal! Ele será capaz de conviver entre os outros humanos sem ser descoberto?",
+      "averageRating": 4.5,
+      "totalVotes": 46,
+      "addedDate": "2025-08-20",
+      "views": 16000
+    },
+    {
+      "id": "7",
+      "title": "Riven (A Trilogia Riven Livro 1)",
+      "author": "A.R. Knight",
+      "channel": "Black Key Books - Português",
+      "narrator": "Desconhecido ou IA",
+      "url": "https://www.youtube.com/watch?v=p41eQr1OVgM",
+      "coverImage": "https://m.media-amazon.com/images/I/410TILjgrjL._SY445_SX342_ControlCacheEqualizer_.jpg",
+      "category": [
+        "Ficção"
+      ],
+      "subCategory": [
+        "Ficção científica",
+        "Aventura"
+      ],
+      "synopsis": "Guiar os mortos para sua próxima vida nunca foi um trabalho fácil. Acontece que a maioria dos mortos não gosta de estar, bem, morta. Mas quando um espírito poderoso e furioso começa a reunir as almas perdidas e afirma que Carver pode ser a ponte de volta à vida, Carver precisa descobrir o porquê antes que os mortos o tornem um deles.",
+      "averageRating": 5,
+      "totalVotes": 10,
+      "addedDate": "2025-08-20",
+      "views": 4600
+    },
+    {
+      "id": "8",
+      "title": "O Eterno Retorno (A Trilogia Riven Livro 2)",
+      "author": "A.R. Knight",
+      "channel": "Black Key Books - Português",
+      "narrator": "Desconhecido ou IA",
+      "url": "https://www.youtube.com/watch?v=btRi1Qc5HP0",
+      "coverImage": "https://m.media-amazon.com/images/I/81OQ2Jrt31L._SY342_.jpg",
+      "category": [
+        "Ficção"
+      ],
+      "subCategory": [
+        "Ficção Científica"
+      ],
+      "synopsis": "Com a Primeira Guerra Mundial ainda em fúria, almas perdidas continuam a inundar Riven, preenchendo seu mundo até o limite. Os Guias, encarregados de purificar esses mortos, já estão sobrecarregados mesmo antes de um misterioso inimigo começar a despedaçá-los. Carver deve caçar o monstro antes que ele destrua os guias, permitindo que os mortos rompam a barreira entre os mundos.",
+      "averageRating": 4.6,
+      "totalVotes": 22,
+      "addedDate": "2025-08-20",
+      "views": 866
+    },
+    {
+      "id": "9",
+      "title": "O Fim Do Espírito (A Trilogia Riven Livro 3)",
+      "author": "A.R. Knight",
+      "channel": "Black Key Books - Português",
+      "narrator": "Desconhecido ou IA",
+      "url": "https://www.youtube.com/watch?v=mPu4BUPNLow",
+      "coverImage": "https://m.media-amazon.com/images/I/81JS85kgWJL._SY342_.jpg",
+      "category": [
+        "Ficção"
+      ],
+      "subCategory": [
+        "Ficção científica"
+      ],
+      "synopsis": "Com a Primeira Guerra Mundial ainda em fúria, almas perdidas continuam a inundar Riven, preenchendo seu mundo até o limite. Os Guias, encarregados de purificar esses mortos, já estão sobrecarregados mesmo antes de um misterioso inimigo começar a despedaçá-los. Carver deve caçar o monstro antes que ele destrua os guias, permitindo que os mortos rompam a barreira entre os mundos.",
+      "averageRating": 4.7,
+      "totalVotes": 20,
+      "addedDate": "2025-08-20",
+      "views": 1000
+    },
+    {
+      "id": "10",
+      "title": "A Bússola de Ouro",
+      "author": "Philip Pullman",
+      "channel": "O Gato da Torre",
+      "narrator": "Desconhecido",
+      "url": "https://www.youtube.com/watch?v=2N8kGGsQTD8",
+      "coverImage": "https://m.media-amazon.com/images/I/91T-vC38laL._SY342_.jpg",
+      "category": [
+        "Infantil"
+      ],
+      "subCategory": [
+        "Literatura Infantil",
+        "Aventura"
+      ],
+      "synopsis": "A bússola de ouro se passa em um mundo muito parecido com o nosso - mas com algumas curiosas diferenças. Ciência e religião se confundem. Todo ser humano possui um daemon, um animal inseparável que na infância toma várias formas. E existe um raríssimo objeto que aponta a verdade, mas ninguém sabe fazê-lo funcionar.",
+      "averageRating": 5,
+      "totalVotes": 54,
+      "addedDate": "2025-08-20",
+      "views": 835
+    },
+    {
+      "id": "11",
       "title": "O Sussurrador nas Trevas",
       "author": "H.P. Lovecraft",
       "channel": "Nacapa Oficial",
@@ -23,7 +232,7 @@
       "views": 90
     },
     {
-      "id": "2",
+      "id": "12",
       "title": "Drácula",
       "author": "Bram Stoker",
       "channel": "The Audiobook's Society",
@@ -46,7 +255,7 @@
       "views": 5000
     },
     {
-      "id": "3",
+      "id": "13",
       "title": "A História que O Diabo Contou",
       "author": "Levitas",
       "channel": "ibamendes",
@@ -66,7 +275,7 @@
       "views": 1422
     },
     {
-      "id": "4",
+      "id": "14",
       "title": "Noite Diabólica",
       "author": "Rubens Francisco Lucchetti",
       "channel": "Vitormam - Literatura fantástica e de Terror",
@@ -89,7 +298,7 @@
       "views": 2200
     },
     {
-      "id": "5",
+      "id": "15",
       "title": "Da Terra a Lua",
       "author": "Julio Verne",
       "channel": "LENDO OU OUVINDO?",
@@ -111,7 +320,7 @@
       "views": 28
     },
     {
-      "id": "6",
+      "id": "16",
       "title": "O Homem Mais Rico da Babilônia",
       "author": "George Samuel Clason",
       "channel": "Liga Mastermind",
@@ -131,7 +340,7 @@
       "views": 1304570
     },
     {
-      "id": "7",
+      "id": "17",
       "title": "Poder & Manipulação: Como entender o mundo em vinte lições extraídas de \"O Príncipe\", de Maquiavel",
       "author": "Jacob Petry",
       "channel": "Liga Mastermind",
@@ -151,7 +360,7 @@
       "views": 14913
     },
     {
-      "id": "8",
+      "id": "18",
       "title": "Horror em Amityville",
       "author": "Jay Anson",
       "channel": "Augusto Sales",
@@ -171,7 +380,7 @@
       "views": 1800
     },
     {
-      "id": "9",
+      "id": "19",
       "title": "O Macaco",
       "author": "Stephen King",
       "channel": "The Audiobook's Society",
@@ -191,7 +400,7 @@
       "views": 480
     },
     {
-      "id": "10",
+      "id": "20",
       "title": "1408",
       "author": "Stephen King",
       "channel": "Domínio Público",
@@ -213,7 +422,7 @@
       "views": 13974
     },
     {
-      "id": "11",
+      "id": "21",
       "title": "O Silmarillion",
       "author": "J.R.R. Tolkien",
       "channel": "AUDIOBOOK COLLECTIONS",
@@ -235,7 +444,7 @@
       "views": 1694
     },
     {
-      "id": "12",
+      "id": "22",
       "title": "O Hobbit",
       "author": "J.R.R. Tolkien",
       "channel": "AUDIOBOOK COLLECTIONS",
@@ -257,7 +466,7 @@
       "views": 6883
     },
     {
-      "id": "13",
+      "id": "23",
       "title": "Os Contos de Beedle O Bardo",
       "author": "J. K. Rowling",
       "channel": "Biboca Diagonal",
@@ -279,7 +488,7 @@
       "views": 663
     },
     {
-      "id": "14",
+      "id": "24",
       "title": "Animais Fantásticos e onde habitam",
       "author": "J. K. Rowling",
       "channel": "Biboca Diagonal",
@@ -301,7 +510,7 @@
       "views": 2099
     },
     {
-      "id": "15",
+      "id": "25",
       "title": "Moby Dick 1961",
       "author": "Herman Melville",
       "channel": "Biboca Diagonal",
@@ -323,7 +532,7 @@
       "views": 45
     },
     {
-      "id": "16",
+      "id": "26",
       "title": "O menino do pijama listrado",
       "author": "John Boyne",
       "channel": "Biboca Diagonal",
@@ -344,7 +553,7 @@
       "views": 285
     },
     {
-      "id": "17",
+      "id": "27",
       "title": "Diário de Anne Frank",
       "author": "Anne Frank",
       "channel": "Biboca Diagonal",
@@ -366,7 +575,7 @@
       "views": 493
     },
     {
-      "id": "18",
+      "id": "28",
       "title": "Harry Potter e o Cálice de Fogo (Parte 1)",
       "author": "J. K. Rowling",
       "channel": "Beatriz Bergamin",
@@ -388,7 +597,7 @@
       "views": 232000
     },
     {
-      "id": "19",
+      "id": "29",
       "title": "Harry Potter e o Cálice de Fogo (Parte 2)",
       "author": "J. K. Rowling",
       "channel": "Beatriz Bergamin",
@@ -410,7 +619,7 @@
       "views": 106000
     },
     {
-      "id": "20",
+      "id": "30",
       "title": "Harry Potter e o Cálice de Fogo (Parte 3)",
       "author": "J. K. Rowling",
       "channel": "Beatriz Bergamin",
@@ -432,7 +641,7 @@
       "views": 59000
     },
     {
-      "id": "21",
+      "id": "31",
       "title": "Harry Potter e a Ordem da Fênix (Parte 1)",
       "author": "J. K. Rowling",
       "channel": "Beatriz Bergamin",
@@ -454,7 +663,7 @@
       "views": 168000
     },
     {
-      "id": "22",
+      "id": "32",
       "title": "Harry Potter e a Ordem da Fênix (Parte 2)",
       "author": "J. K. Rowling",
       "channel": "Beatriz Bergamin",
@@ -476,7 +685,7 @@
       "views": 125000
     },
     {
-      "id": "23",
+      "id": "33",
       "title": "Harry Potter e a Ordem da Fênix (Parte 3)",
       "author": "J. K. Rowling",
       "channel": "Beatriz Bergamin",
@@ -498,7 +707,7 @@
       "views": 109000
     },
     {
-      "id": "24",
+      "id": "34",
       "title": "Harry Potter e o Enigma do Príncipe (Parte 1)",
       "author": "J. K. Rowling",
       "channel": "Beatriz Bergamin",
@@ -520,7 +729,7 @@
       "views": 117000
     },
     {
-      "id": "25",
+      "id": "35",
       "title": "Harry Potter e o Enigma do Príncipe (Parte 2)",
       "author": "J. K. Rowling",
       "channel": "Beatriz Bergamin",
@@ -542,7 +751,7 @@
       "views": 76000
     },
     {
-      "id": "26",
+      "id": "36",
       "title": "Percy Jackson e o Ladrão de Raios",
       "author": "Rick Riordan",
       "channel": "Beatriz Bergamin",
@@ -564,7 +773,7 @@
       "views": 216000
     },
     {
-      "id": "27",
+      "id": "37",
       "title": "Harry Potter e as Relíquias da Morte Parte 1",
       "author": "J. K. Rowling",
       "channel": "Biboca Diagonal",
@@ -586,7 +795,7 @@
       "views": 44000
     },
     {
-      "id": "28",
+      "id": "38",
       "title": "Harry Potter e as Relíquias da Morte Parte 2",
       "author": "J. K. Rowling",
       "channel": "Biboca Diagonal",
@@ -608,7 +817,7 @@
       "views": 46000
     },
     {
-      "id": "29",
+      "id": "39",
       "title": "Harry Potter e a Pedra Filosofal",
       "author": "J. K. Rowling",
       "channel": "Biboca Diagonal",
@@ -630,7 +839,7 @@
       "views": 74000
     },
     {
-      "id": "30",
+      "id": "40",
       "title": "Harry Potter e a Câmara Secreta",
       "author": "J. K. Rowling",
       "channel": "Biboca Diagonal",
@@ -652,7 +861,7 @@
       "views": 36000
     },
     {
-      "id": "31",
+      "id": "41",
       "title": "Harry Potter e o Prisioneiro de Azkaban",
       "author": "J. K. Rowling",
       "channel": "Beatriz Bergamin",
